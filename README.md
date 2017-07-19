@@ -1,5 +1,20 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to Data Science
 
+
+1. [Welcome](#welcome)
+2. [Your Team](#team)
+3. [Course Overview](#course)
+4. [Course Schedule](#schedule)
+5. [Projects](#projects)
+6. [Tech Requirements](#tech)
+7. [Classroom Tools: Slack](#slack)
+8. [Student Expectations](#expectations)
+9. [Office Hours](#hours)
+10. [Student Feedback](#feedback)
+
+---
+
+<a id='welcome'></a>
 Welcome to the part time Data Science course at General Assembly!
 
 In our part-time course, we will use Python (currently v2.7) to explore datasets, build predictive models, and communicate data driven insights. 
@@ -12,7 +27,7 @@ Specifically, you will learn to:
 - Communicate data driven insights to peers and stakeholders in order to inform business decisions.
 
 ---
-
+<a id='team'></a>
 ## Your Instructional Team
 
 **Instructor**: [X](X)
@@ -21,63 +36,7 @@ Specifically, you will learn to:
 
 ---
 
-## <img src="https://lh3.googleusercontent.com/CzlsZP3xUHeX3HAGdZ2rL9mK6_C-6T1-YWeBeM8nB3ilmfPSBHCFx4-UbQr8MnQms3d9=w300" width="25px"> Slack
-
-We'll be using Slack for our in-class communications. Slack is a messaging platform where you can chat with your peers and instructors. We will use Slack to share information about the course, discuss lessons, and submit projects. Our Slack homepage is [X](x).
-
-**Pro Tip**: If you've never used Slack before, check out these resources:
-- [Intro to Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
-- [Slack Basics and Shortcuts](https://get.slack.help/hc/en-us/articles/217626358-Cheat-sheet-for-basics-and-shortcuts)
-- [The Ultimate Slack Cheatsheet](https://chartmogul.attach.io/EyoxcOGL)
-
----
-
-## Office Hours
-Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
-
-* Instructor's Office Hours - Day, Time (or by Appointment)
-* Assistant's Office Hours - Day, Time (or by Appointment)
-
-Slack us or post in our #officehours channel to reserve a time-slot!
-
----
-
-## Student Feedback
-
-Throughout the course, you'll be asked to provide feedback about your experience. This feedback is extremely important, as it helps us provide you with a better learning experience.
-
-[Insert specific VTS/Exit Ticket details here]
-
----
-
-## Recommended Technology Requirements
-
-#### Hardware
-
-1. 8GB Ram (at least)
-2. 10GB Free Hard Drive Space (after installing Anaconda)
-
-#### Software
-
-1. Download and Install [Anaconda with Python 2.7](https://www.continuum.io/downloads). 
-    - Note: If you have already downloaded Anaconda for Python 3.6, that is not a major issue. We will just need to add a modified configuration to your development environment.
-
-**MAC only**
-- Install [HomeBrew](https://brew.sh/)
-
-**PC only**
-- Install [Git Bash](https://git-for-windows.github.io/)
-
-#### Browser Check
-- Google Chome
-- Firefox (optional)
-
-#### Additional Items
-- Most students may wish to install a text editor; we recommend Sublime or Atom
-
----
-
-<a id='structure'></a>
+<a id='course'></a>
 ## Curriculum Structure
 
 General Assembly's Data Science part time materials are organized into **four** units.
@@ -92,7 +51,7 @@ General Assembly's Data Science part time materials are organized into **four** 
 ---
 
 
-<a id='topics'></a>
+<a id='schedule'></a>
 ## Lesson Schedule
 
 Here is the schedule we will be following for our part time data science curriculum
@@ -120,7 +79,6 @@ Lesson  | Unit Number | Session Number |
 [Review + Project Workshop][1-1T]          | Unit 4 | Session 19 | 
 [Project Presentations][1-1U]              | Unit 4 | Session 20 | 
 
-> Note: Flex sessions mean that this content is modular. It is provided as enrichment for students and can be reorganized or omitted, depending on the needs of your students. You may optionally use this time as a buffer to work on projects or review earlier material.
 
 [1-1A]: X
 [1-1B]: X
@@ -142,3 +100,100 @@ Lesson  | Unit Number | Session Number |
 [1-1R]: X
 [1-1T]: X
 [1-1U]: X
+
+---
+
+<a id='projects'></a>
+## Project Structure
+
+This course provides two types of projects: **unit** projects and a **final** project.
+
+#### Unit Projects
+Our data science course contains **three** unit projects, to be completed at the end of each unit. These enrichment projects ask you to synthesize the skills learned in that unit. You will be required to complete projects for Units 1 and 2. 
+
+> Note: Our Unit 3 project is optional, but strongly encouraged!
+
+#### Final Project
+
+The final project asks you to apply your skills to a real world problem. This final project is broken down into five smaller deliverables, which helps you to perform each step of our data science workflow while tackling a real world projet.
+
+### Project Breakdown
+
+1. Project 1: Python Technical Code Challenges
+2. Project 2: EDA + Chipotle
+3. Project 3: Linear Regression and KNN Practice *Optional*
+4. Project 4: Final Project
+    - Part 1: Create Proposal
+    - Part 2: Identify Dataset
+    - Part 3: Perform EDA
+    - Part 4: Model Data
+    - Part 5: Present Findings
+
+---
+
+<a id='tech'></a>
+## Recommended Technology Requirements
+
+#### Hardware
+
+1. 8GB Ram (at least)
+2. 10GB Free Hard Drive Space (after installing Anaconda)
+
+#### Software
+
+1. Download and Install [Anaconda with Python 2.7](https://www.continuum.io/downloads). 
+    - Note: If you have already downloaded Anaconda for Python 3.6, that is not a major issue. We will just need to add a modified configuration to your development environment.
+
+**MAC only**
+- Install [HomeBrew](https://brew.sh/)
+
+**PC only**
+- Install [Git Bash](https://git-for-windows.github.io/)
+
+#### Browser Check
+- Google Chome
+- Firefox (optional)
+
+#### Additional Items
+- Most students may wish to install a text editor; we recommend Sublime or Atom
+
+---
+
+<a id='slack'></a>
+## <img src="https://lh3.googleusercontent.com/CzlsZP3xUHeX3HAGdZ2rL9mK6_C-6T1-YWeBeM8nB3ilmfPSBHCFx4-UbQr8MnQms3d9=w300" width="25px"> Slack
+
+We'll be using Slack for our in-class communications. Slack is a messaging platform where you can chat with your peers and instructors. We will use Slack to share information about the course, discuss lessons, and submit projects. Our Slack homepage is [X](x).
+
+**Pro Tip**: If you've never used Slack before, check out these resources:
+- [Intro to Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
+- [Slack Basics and Shortcuts](https://get.slack.help/hc/en-us/articles/217626358-Cheat-sheet-for-basics-and-shortcuts)
+- [The Ultimate Slack Cheatsheet](https://chartmogul.attach.io/EyoxcOGL)
+
+---
+
+<a id='expectations'></a>
+## Expectations
+
+[Add specific local market attendance, student policy, and parking expectations here]
+
+---
+
+<a id='hours'></a>
+## Office Hours
+Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
+
+* Instructor's Office Hours - Day, Time (or by Appointment)
+* Assistant's Office Hours - Day, Time (or by Appointment)
+
+Slack us or post in our #officehours channel to reserve a time-slot!
+
+---
+
+<a id='feedback'></a>
+## Student Feedback
+
+Throughout the course, you'll be asked to provide feedback about your experience. This feedback is extremely important, as it helps us provide you with a better learning experience.
+
+[Insert specific VTS/Exit Ticket details here]
+
+---
