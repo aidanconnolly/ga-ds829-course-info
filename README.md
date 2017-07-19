@@ -52,7 +52,26 @@ Throughout the course, you'll be asked to provide feedback about your experience
 
 ## Recommended Technology Requirements
 
+#### Hardware
 
+1. 8GB Ram (at least)
+2. 10GB Free Hard Drive Space (after installing Anaconda)
 
-**Pro Tip:**
-- For more advice on how to use Github, check out [The Beginner's Guide to Github](https://www.pluralsight.com/blog/software-development/github-tutorial).
+#### Software
+
+1. Download and Install [Anaconda with Python 2.7](https://www.continuum.io/downloads). 
+    - Note: If you have already downloaded Anaconda for Python 3.6, that is not a major issue. We will just need to add a modified configuration to your development environment.
+
+**MAC only**
+- Install [HomeBrew](https://brew.sh/)
+
+**PC only**
+- Install[Git Bash](https://git-for-windows.github.io/)
+
+#### Browser Check
+- Google Chome
+- Firefox (optional)
+
+#### Additional Items
+- Most students may wish to install a text editor; we recommend Sublime or Atom
+
