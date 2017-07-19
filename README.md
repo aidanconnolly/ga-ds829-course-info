@@ -121,7 +121,7 @@ The final project asks you to apply your skills to a real world problem. This fi
 
 1. Project 1: Python Technical Code Challenges
 2. Project 2: EDA + Chipotle
-3. Project 3: Linear Regression and KNN Practice *Optional*
+3. Project 3: Linear Regression and KNN Practice (*Optional*)
 4. Project 4: Final Project
     - Part 1: Create Proposal
     - Part 2: Identify Dataset
