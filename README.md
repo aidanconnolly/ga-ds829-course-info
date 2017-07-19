@@ -119,15 +119,20 @@ The final project asks you to apply your skills to a real world problem. This fi
 
 ### Project Breakdown
 
-1. Project 1: Python Technical Code Challenges
-2. Project 2: EDA + Chipotle
-3. Project 3: Linear Regression and KNN Practice (*Optional*)
-4. Project 4: Final Project
+1. [Project 1: Python Technical Code Challenges][2-1A]
+2. [Project 2: EDA + Chipotle][2-1B]
+3. [Project 3: Linear Regression and KNN Practice (*Optional*)][2-1C]
+4. [Project 4: Final Project][2-1D]
     - Part 1: Create Proposal
     - Part 2: Identify Dataset
     - Part 3: Perform EDA
     - Part 4: Model Data
     - Part 5: Present Findings
+
+[2-1A]:  X
+[2-1B]:  X
+[2-1C]:  X
+[2-1D]:  X
 
 ---
 
