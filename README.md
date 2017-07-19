@@ -66,7 +66,7 @@ Throughout the course, you'll be asked to provide feedback about your experience
 - Install [HomeBrew](https://brew.sh/)
 
 **PC only**
-- Install[Git Bash](https://git-for-windows.github.io/)
+- Install [Git Bash](https://git-for-windows.github.io/)
 
 #### Browser Check
 - Google Chome
