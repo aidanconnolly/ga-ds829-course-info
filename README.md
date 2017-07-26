@@ -129,10 +129,10 @@ The final project asks you to apply your skills to a real world problem. This fi
     - Part 4: Model Data
     - Part 5: Present Findings
 
-[2-1A]:  X
-[2-1B]:  X
-[2-1C]:  X
-[2-1D]:  X
+[2-1A]:  https://git.generalassemb.ly/data-part-time/Unit-1_Project
+[2-1B]:  https://git.generalassemb.ly/data-part-time/Unit-2_Project
+[2-1C]:  https://git.generalassemb.ly/data-part-time/Unit-3_Project
+[2-1D]:  https://git.generalassemb.ly/data-part-time/Unit-4_Project
 
 ---
 
