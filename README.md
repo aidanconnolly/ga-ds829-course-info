@@ -80,26 +80,26 @@ Lesson  | Unit Number | Session Number |
 [Project Presentations][1-1U]              | Unit 4 | Session 20 | 
 
 
-[1-1A]: X
-[1-1B]: X
-[1-1C]: X
-[1-1D]: X
-[1-1E]: X
-[1-1F]: X
-[1-1G]: X
-[1-1H]: X
-[1-1I]: X
-[1-1J]: X
-[1-1K]: X
-[1-1L]: X
-[1-1M]: X
-[1-1N]: X
-[1-1O]: X
-[1-1P]: X
-[1-1Q]: X
-[1-1R]: X
-[1-1T]: X
-[1-1U]: X
+[1-1A]: https://git.generalassemb.ly/data-part-time/what-is-data-science
+[1-1B]: https://git.generalassemb.ly/data-part-time/your-development-environment
+[1-1C]: https://git.generalassemb.ly/data-part-time/python-foundations
+[1-1D]: https://git.generalassemb.ly/data-part-time/fundamentals-review
+[1-1E]: https://git.generalassemb.ly/data-part-time/statistics-review
+[1-1F]: https://git.generalassemb.ly/data-part-time/stats-and-plots
+[1-1G]: https://git.generalassemb.ly/data-part-time/exploratory-data-analysis
+[1-1H]: https://git.generalassemb.ly/data-part-time/visualizations
+[1-1I]: https://git.generalassemb.ly/data-part-time/working-with-data-review
+[1-1J]: https://git.generalassemb.ly/data-part-time/linear-regression
+[1-1K]: https://git.generalassemb.ly/data-part-time/train-test-split-and-bias-variance
+[1-1L]: https://git.generalassemb.ly/data-part-time/knn-classification
+[1-1M]: https://git.generalassemb.ly/data-part-time/logistic-regression
+[1-1N]: https://git.generalassemb.ly/data-part-time/data-modeling-review
+[1-1O]: https://git.generalassemb.ly/data-part-time/getting-data-APIs
+[1-1P]: https://git.generalassemb.ly/data-part-time/natural-language-processing
+[1-1Q]: https://git.generalassemb.ly/data-part-time/decision-trees-and-random-forests
+[1-1R]: https://git.generalassemb.ly/data-part-time/flex_clustering
+[1-1T]: https://git.generalassemb.ly/data-part-time/applications-review
+[1-1U]: https://git.generalassemb.ly/data-part-time/unit-4_project
 
 ---
 
@@ -129,10 +129,10 @@ The final project asks you to apply your skills to a real world problem. This fi
     - Part 4: Model Data
     - Part 5: Present Findings
 
-[2-1A]:  https://git.generalassemb.ly/data-part-time/Unit-1_Project
-[2-1B]:  https://git.generalassemb.ly/data-part-time/Unit-2_Project
-[2-1C]:  https://git.generalassemb.ly/data-part-time/Unit-3_Project
-[2-1D]:  https://git.generalassemb.ly/data-part-time/Unit-4_Project
+[2-1A]:  https://git.generalassemb.ly/data-part-time/unit-1_project
+[2-1B]:  https://git.generalassemb.ly/data-part-time/unit-2_project
+[2-1C]:  https://git.generalassemb.ly/data-part-time/unit-3_project
+[2-1D]:  https://git.generalassemb.ly/data-part-time/unit-4_project
 
 ---
 
