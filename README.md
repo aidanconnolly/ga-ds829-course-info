@@ -63,7 +63,7 @@ Lesson  | Unit Number | Session Number |
 [Python Foundations][1-1C]                 | Unit 1 | Session 3 |  
 [Review + Project Workshop][1-1D]          | Unit 1 | Session 4 | 
 [Statistics Review][1-1E]                  | Unit 2 | Session 5 | 
-[Stats & Visualizations in Python][1-1F]   | Unit 2 | Session 6 | 
+[Stats & Plots in Python][1-1F]            | Unit 2 | Session 6 | 
 [Exploratory Data Analysis][1-1G]          | Unit 2 | Session 7 | 
 [Data Visualization in Python][1-1H]       | Unit 2 | Session 8 | 
 [Review + Project Workshop][1-1I]          | Unit 2 | Session 9 | 
