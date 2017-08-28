@@ -56,22 +56,25 @@ General Assembly's Data Science part time materials are organized into **four** 
 
 Here is the schedule we will be following for our part time data science curriculum
 
-Lesson  | Unit Number | Session Number | 
+Lesson  | Unit Number | Session Number | Project 
 --------- | ---------  | ---------  |
 [What is Data Science?][1-1A]              | Unit 1 | Session 1 |
 [Your Development Environment][1-1B]       | Unit 1 | Session 2 | 
 [Python Foundations][1-1C]                 | Unit 1 | Session 3 |  
 [Review + Project Workshop][1-1D]          | Unit 1 | Session 4 | 
+--------- | ---------  | ---------  |
 [Statistics Review][1-1E]                  | Unit 2 | Session 5 | 
 [Stats & Plots in Python][1-1F]            | Unit 2 | Session 6 | 
 [Exploratory Data Analysis][1-1G]          | Unit 2 | Session 7 | 
 [Data Visualization in Python][1-1H]       | Unit 2 | Session 8 | 
 [Review + Project Workshop][1-1I]          | Unit 2 | Session 9 | 
+--------- | ---------  | ---------  |
 [Linear Regression][1-1J]                  | Unit 3 | Session 10 | 
 [Train-Test Split & Bias-Variance][1-1K]   | Unit 3 | Session 11 | 
 [KNN / Classification][1-1L]               | Unit 3 | Session 12 | 
 [Logistic Regression][1-1M]                | Unit 3 | Session 13 | 
 [Review + Project Workshop][1-1N]          | Unit 3 | Session 14 | 
+--------- | ---------  | ---------  |
 [Getting Data from API's][1-1O]            | Unit 4 | Session 15 | 
 [Flex: Natural Language Processing][1-1P]  | Unit 4 | Session 16 | 
 [Flex: Decision Trees][1-1Q]               | Unit 4 | Session 17 | 
@@ -108,16 +111,16 @@ Lesson  | Unit Number | Session Number |
 
 This course provides two types of projects: **unit** projects and a **final** project.
 
-#### Unit Projects
+### Unit Projects
 Our data science course contains **three** unit projects, to be completed at the end of each unit. These enrichment projects ask you to synthesize the skills learned in that unit. You will be required to complete projects for Units 1 and 2. 
 
 > Note: Our Unit 3 project is optional, but strongly encouraged!
 
-#### Final Project
+### Final Project
 
 The final project asks you to apply your skills to a real world problem. This final project is broken down into five smaller deliverables, which helps you to perform each step of our data science workflow while tackling a real world projet.
 
-### Project Breakdown
+#### Project Breakdown
 
 1. [Project 1: Python Technical Code Challenges][2-1A]
 2. [Project 2: EDA + Chipotle][2-1B]
@@ -133,6 +136,28 @@ The final project asks you to apply your skills to a real world problem. This fi
 [2-1B]:  https://git.generalassemb.ly/data-part-time/unit-2_project
 [2-1C]:  https://git.generalassemb.ly/data-part-time/unit-3_project
 [2-1D]:  https://git.generalassemb.ly/data-part-time/unit-4_project
+
+#### Project Schedule
+
+| Lesson  | Deliverables | Status
+| --- | --- | --- |
+| Unit 1, Lesson 1 | Review All Projects and Deliverables	     | **Discuss** |
+| Unit 2, Lesson 2 | Review Final Project Datasets	             | **Discuss** |
+| --- | --- | --- |
+| Unit 2, Lesson 5 | Pt 1: Create Problem Statement 	         | **Assigned** |
+| Unit 3, Lesson 1 | Pt 1: Create Problem Statement 	         | **Due** |
+| --- | --- | --- |
+| Unit 3, Lesson 1 | Pt 2: Define Data Sources                   | **Assigned** |
+| Unit 3, Lesson 3 | Pt 2: Define Data Sources                   | **Due** |
+| --- | --- | --- |
+| Unit 3, Lesson 3 | Pt 3: Perform EDA on Data                   | **Assigned** |
+| Unit 4, Lesson 1 | Pt 3: Perform EDA on Data                   | **Due** |
+| --- | --- | --- |
+| Unit 4, Lesson 1 | Pt 4: Model Data                            | **Assigned** |
+| Unit 4, Lesson 4 | Pt 4: Model Data                            | **Due** |
+| --- | --- | --- |
+| Unit 4, Lesson 4 | Pt 5: Present Data                          | **Assigned** |
+| Unit 4, Lesson 6 | Pt 5: Present Data                          | **Due** |
 
 ---
 
