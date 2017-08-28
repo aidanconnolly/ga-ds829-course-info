@@ -54,27 +54,27 @@ General Assembly's Data Science part time materials are organized into **four** 
 <a id='schedule'></a>
 ## Lesson Schedule
 
-Here is the schedule we will be following for our part time data science curriculum
+Here is the schedule we will be following for our part time data science curriculum:
 
-Lesson  | Unit Number | Session Number | Project 
---------- | ---------  | ---------  |
+Lesson  | Unit Number | Session Number |
+--- | ---  | ---  |
 [What is Data Science?][1-1A]              | Unit 1 | Session 1 |
 [Your Development Environment][1-1B]       | Unit 1 | Session 2 | 
 [Python Foundations][1-1C]                 | Unit 1 | Session 3 |  
 [Review + Project Workshop][1-1D]          | Unit 1 | Session 4 | 
---------- | ---------  | ---------  |
+--- | ---  | ---  |
 [Statistics Review][1-1E]                  | Unit 2 | Session 5 | 
 [Stats & Plots in Python][1-1F]            | Unit 2 | Session 6 | 
 [Exploratory Data Analysis][1-1G]          | Unit 2 | Session 7 | 
 [Data Visualization in Python][1-1H]       | Unit 2 | Session 8 | 
 [Review + Project Workshop][1-1I]          | Unit 2 | Session 9 | 
---------- | ---------  | ---------  |
+--- | ---  | ---  |
 [Linear Regression][1-1J]                  | Unit 3 | Session 10 | 
 [Train-Test Split & Bias-Variance][1-1K]   | Unit 3 | Session 11 | 
 [KNN / Classification][1-1L]               | Unit 3 | Session 12 | 
 [Logistic Regression][1-1M]                | Unit 3 | Session 13 | 
 [Review + Project Workshop][1-1N]          | Unit 3 | Session 14 | 
---------- | ---------  | ---------  |
+--- | ---  | ---  |
 [Getting Data from API's][1-1O]            | Unit 4 | Session 15 | 
 [Flex: Natural Language Processing][1-1P]  | Unit 4 | Session 16 | 
 [Flex: Decision Trees][1-1Q]               | Unit 4 | Session 17 | 
