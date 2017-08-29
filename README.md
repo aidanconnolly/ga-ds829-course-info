@@ -46,7 +46,7 @@ General Assembly's Data Science part time materials are organized into **four** 
 | Unit 1 | Foundations       | Python Syntax, Development Environment | Lessons 1-4 |
 | Unit 2 | Working with Data | Stats Review, Visualization, & EDA     | Lessons 5-9  | 
 | Unit 3 | Data Modeling     | Regression, Classification, & KNN      | Lessons 10-14  | 
-| Unit 4 | Applications      | Decision Trees, NLP, Trends            | Lessons 15-19  | 
+| Unit 4 | Applications      | Decision Trees, NLP, Common Models     | Lessons 15-19  | 
 
 ---
 
@@ -54,7 +54,7 @@ General Assembly's Data Science part time materials are organized into **four** 
 <a id='schedule'></a>
 ## Lesson Schedule
 
-Here is the schedule we will be following for our part time data science curriculum:
+Here is the schedule we will be following for our part time data science course:
 
 Lesson  | Unit Number | Session Number |
 --- | ---  | ---  |
@@ -109,16 +109,18 @@ Lesson  | Unit Number | Session Number |
 <a id='projects'></a>
 ## Project Structure
 
-This course provides two types of projects: **unit** projects and a **final** project.
+This course will ask you to complete two sets of projects: short **unit** projects and a longer **final** project.
 
 ### Unit Projects
-Our data science course contains **three** unit projects, to be completed at the end of each unit. These enrichment projects ask you to synthesize the skills learned in that unit. You will be required to complete projects for Units 1 and 2. 
+At the end of each unit, we'll ask you to complete a small project. These enrichment projects require you to synthesize the skills learned in that unit. There are **three** unit projects.
 
-> Note: Our Unit 3 project is optional, but strongly encouraged!
+> Note: Unit projects 1 and 2 are required, whereas Unit 3 project is optional... but strongly encouraged!
 
 ### Final Project
 
-The final project asks you to apply your skills to a real world problem. This final project is broken down into five smaller deliverables, which helps you to perform each step of our data science workflow while tackling a real world projet.
+You'll also complete a longer final project, which asks you to apply your skills to a real world problem. At the end of the course, you'll be asked to share your final project with peers and colleagues.
+
+The final project is broken down into five smaller deliverables, which walks you through every step of the data science workflow as you tackle a real world project.
 
 #### Project Breakdown
 
@@ -141,23 +143,24 @@ The final project asks you to apply your skills to a real world problem. This fi
 
 | Lesson  | Deliverables | Status
 | --- | --- | --- |
-| Unit 1, Lesson 1 | Review All Projects and Deliverables	     | **Discuss** |
-| Unit 2, Lesson 2 | Review Final Project Datasets	             | **Discuss** |
+| Unit 1, Lesson 1 | Review All Projects and Deliverables	           | **Discussion** |
+| Unit 1, Lesson 4 | Unit Project 1                                    | **Complete in-Class or as HW** |
 | --- | --- | --- |
-| Unit 2, Lesson 5 | Pt 1: Create Problem Statement 	         | **Assigned** |
-| Unit 3, Lesson 1 | Pt 1: Create Problem Statement 	         | **Due** |
+| Unit 2, Lesson 2 | Review Final Project Datasets	                   | **Discussion or as HW** |
+| Unit 2, Lesson 5 | Unit Project 2                                    | **Complete in-Class or as HW** |
+| Unit 2, Lesson 5 | Final Project Pt 1: Create Problem statement 	   | **Assigned** |
 | --- | --- | --- |
-| Unit 3, Lesson 1 | Pt 2: Define Data Sources                   | **Assigned** |
-| Unit 3, Lesson 3 | Pt 2: Define Data Sources                   | **Due** |
+| Unit 3, Lesson 1 | Final Project Pt 1: Create Problem statement 	   | **Due** |
+| Unit 3, Lesson 1 | Final Project Pt 2: Define Data sources           | **Assigned** |
+| Unit 3, Lesson 3 | Final Project Pt 2: Define Data sources           | **Due** |
+| Unit 3, Lesson 3 | Final Project Pt 3: Perform EDA on Data           | **Assigned** |
+| Unit 3, Lesson 5 | Unit Project 3                                    | **Optional: Complete In-Class or as HW** |
 | --- | --- | --- |
-| Unit 3, Lesson 3 | Pt 3: Perform EDA on Data                   | **Assigned** |
-| Unit 4, Lesson 1 | Pt 3: Perform EDA on Data                   | **Due** |
-| --- | --- | --- |
-| Unit 4, Lesson 1 | Pt 4: Model Data                            | **Assigned** |
-| Unit 4, Lesson 4 | Pt 4: Model Data                            | **Due** |
-| --- | --- | --- |
-| Unit 4, Lesson 4 | Pt 5: Present Data                          | **Assigned** |
-| Unit 4, Lesson 6 | Pt 5: Present Data                          | **Due** |
+| Unit 4, Lesson 1 | Final Project Pt 3: Perform EDA on Data           | **Due** |
+| Unit 4, Lesson 1 | Final Project Pt 4: Model Data                    | **Assigned** |
+| Unit 4, Lesson 4 | Final Project Pt 4: Model Data                    | **Due** |
+| Unit 4, Lesson 4 | Final Project Pt 5: Present Data                  | **Assigned** |
+| Unit 4, Lesson 6 |Final Project  Pt 5: Present Data                  | **Due** |
 
 ---
 
@@ -185,7 +188,7 @@ The final project asks you to apply your skills to a real world problem. This fi
 - Firefox (optional)
 
 #### Additional Items
-- Most students may wish to install a text editor; we recommend Sublime or Atom
+- Most students will wish to install a text editor; we recommend [Sublime](http://www.sublimetext.com) or [Atom](https://atom.io)
 
 ---
 
