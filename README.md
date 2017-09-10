@@ -99,7 +99,7 @@ Lesson  | Unit Number | Session Number |
 [1-1N]: https://git.generalassemb.ly/data-part-time/data-modeling-review
 [1-1O]: https://git.generalassemb.ly/data-part-time/getting-data-APIs
 [1-1P]: https://git.generalassemb.ly/data-part-time/natural-language-processing
-[1-1Q]: https://git.generalassemb.ly/data-part-time/decision-trees-and-random-forests
+[1-1Q]: https://git.generalassemb.ly/data-part-time/decision-trees
 [1-1R]: https://git.generalassemb.ly/data-part-time/flex_clustering
 [1-1T]: https://git.generalassemb.ly/data-part-time/applications-review
 [1-1U]: https://git.generalassemb.ly/data-part-time/unit-4_project
