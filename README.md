@@ -17,7 +17,7 @@
 <a id='welcome'></a>
 Welcome to the part time Data Science course at General Assembly!
 
-In our part-time course, we will use Python (currently v2.7) to explore datasets, build predictive models, and communicate data driven insights. 
+In our part-time course, we will use Python to explore datasets, build predictive models, and communicate data driven insights. 
 
 Specifically, you will learn to:
 
@@ -25,6 +25,10 @@ Specifically, you will learn to:
 - Perform exploratory data analysis with powerful programmatic tools, including the command line, python, and pandas.
 - Build and refine basic machine learning models to predict patterns from data sets.
 - Communicate data driven insights to peers and stakeholders in order to inform business decisions.
+
+
+#### Python Version
+Course materials provided for this curriculum use Python 3.6; however, you can still access legacy Python 2.7 versions by checking out the `python2` branch for any given PT DS repository.  
 
 ---
 <a id='team'></a>
