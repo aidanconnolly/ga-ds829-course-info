@@ -178,11 +178,9 @@ The final project is broken down into five smaller deliverables, which walks you
 
 #### Software
 
-1. Download and Install [Anaconda with Python 2.7](https://www.continuum.io/downloads). 
-    - Note: If you have already downloaded Anaconda for Python 3.6, that is not a major issue. We will just need to add a modified configuration to your development environment.
+1. Download and Install [Anaconda with Python 3.6](https://www.continuum.io/downloads).
 
-**MAC only**
-- Install [HomeBrew](https://brew.sh/)
+> Note: Anaconda provides support for two different versions of Python. We'll use Python 3.6 in this course. 
 
 **PC only**
 - Install [Git Bash](https://git-for-windows.github.io/)
