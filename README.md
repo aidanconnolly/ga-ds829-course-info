@@ -68,7 +68,7 @@ Lesson  | Unit Number | Session Number |
 [Review + Project Workshop][1-1D]          | Unit 1 | Session 4 | 
 --- | ---  | ---  |
 [Statistics Review][1-1E]                  | Unit 2 | Session 5 | 
-[Stats & Plots in Python][1-1F]            | Unit 2 | Session 6 | 
+[Experiments & Hypothesis Testing][1-1F]   | Unit 2 | Session 6 | 
 [Exploratory Data Analysis][1-1G]          | Unit 2 | Session 7 | 
 [Data Visualization in Python][1-1H]       | Unit 2 | Session 8 | 
 [Review + Project Workshop][1-1I]          | Unit 2 | Session 9 | 
