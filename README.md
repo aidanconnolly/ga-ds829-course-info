@@ -92,7 +92,7 @@ Lesson  | Unit Number | Session Number |
 [1-1C]: https://git.generalassemb.ly/data-part-time/python-foundations
 [1-1D]: https://git.generalassemb.ly/data-part-time/fundamentals-review
 [1-1E]: https://git.generalassemb.ly/data-part-time/statistics-review
-[1-1F]: https://git.generalassemb.ly/data-part-time/stats-and-plots
+[1-1F]: https://git.generalassemb.ly/data-part-time/experiments-hypothesis-tests
 [1-1G]: https://git.generalassemb.ly/data-part-time/exploratory-data-analysis
 [1-1H]: https://git.generalassemb.ly/data-part-time/visualizations
 [1-1I]: https://git.generalassemb.ly/data-part-time/working-with-data-review
