@@ -71,20 +71,22 @@ Lesson  | Unit Number | Session Number |
 [Experiments & Hypothesis Testing][1-1F]   | Unit 2 | Session 6 | 
 [Exploratory Data Analysis][1-1G]          | Unit 2 | Session 7 | 
 [Data Visualization in Python][1-1H]       | Unit 2 | Session 8 | 
-[Review + Project Workshop][1-1I]          | Unit 2 | Session 9 | 
+[FLEX: Review + Project Workshop][1-1I]          | Unit 2 | Session 9 | 
 --- | ---  | ---  |
 [Linear Regression][1-1J]                  | Unit 3 | Session 10 | 
 [Train-Test Split & Bias-Variance][1-1K]   | Unit 3 | Session 11 | 
 [KNN / Classification][1-1L]               | Unit 3 | Session 12 | 
 [Logistic Regression][1-1M]                | Unit 3 | Session 13 | 
-[Review + Project Workshop][1-1N]          | Unit 3 | Session 14 | 
+[FLEX: Review + Project Workshop][1-1N]          | Unit 3 | Session 14 | 
 --- | ---  | ---  |
-[Getting Data from API's][1-1O]            | Unit 4 | Session 15 | 
-[Flex: Natural Language Processing][1-1P]  | Unit 4 | Session 16 | 
-[Flex: Decision Trees][1-1Q]               | Unit 4 | Session 17 | 
-[Flex: Clustering][1-1R]                   | Unit 4 | Session 18 | 
-[Review + Project Workshop][1-1T]          | Unit 4 | Session 19 | 
-[Project Presentations][1-1U]              | Unit 4 | Session 20 | 
+[Working With API Data][1-1O]                      | Unit 4 | Session 15 | 
+[Natural Language Processing][1-1P]             | Unit 4 | Session 16 | 
+[Decision Trees][1-1Q]                          | Unit 4 | Session 17 | 
+[FLEX: Instructor Choice][1-1R]                   | Unit 4 | Session 18 | 
+[FLEX: Review + Project Workshop][1-1T]           | Unit 4 | Session 19 | 
+[Project Presentations][1-1U]                     | Unit 4 | Session 20 | 
+
+
 
 
 [1-1A]: https://git.generalassemb.ly/data-part-time/what-is-data-science
