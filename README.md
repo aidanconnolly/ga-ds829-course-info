@@ -75,7 +75,7 @@ Lesson  | Unit Number | Session Number |
 [What is Data Science?][1-1A]                   | Unit 1 | Session 1 |
 [Your Development Environment][1-1B]            | Unit 1 | Session 2 | 
 [Python Foundations][1-1C]                      | Unit 1 | Session 3 |  
-[Review + Project Workshop][1-1D]               | Unit 1 | Session 4 | 
+[FLEX: Review + Project Workshop][1-1D]         | Unit 1 | Session 4 | 
 --- | ---  | ---  |
 [Exploratory Data Analysis in Pandas][1-1G]     | Unit 2 | Session 5 | 
 [Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 6 | 
@@ -94,7 +94,7 @@ Lesson  | Unit Number | Session Number |
 [Decision Trees][1-1Q]                          | Unit 4 | Session 17 | 
 [FLEX: Instructor Choice][1-1R]                 | Unit 4 | Session 18 | 
 [FLEX: Review + Project Workshop][1-1T]         | Unit 4 | Session 19 | 
-[Project Presentations][1-1U]                   | Unit 4 | Session 20 | 
+[Final Project Presentations][1-1U]             | Unit 4 | Session 20 | 
 
 
 [1-1A]: https://git.generalassemb.ly/data-part-time/what-is-data-science
