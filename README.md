@@ -77,10 +77,10 @@ Lesson  | Unit Number | Session Number |
 [Python Foundations][1-1C]                      | Unit 1 | Session 3 |  
 [Review + Project Workshop][1-1D]               | Unit 1 | Session 4 | 
 --- | ---  | ---  |
-[Statistics Review][1-1E]                       | Unit 2 | Session 5 | 
+[Exploratory Data Analysis in Pandas][1-1G]     | Unit 2 | Session 5 | 
 [Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 6 | 
-[Exploratory Data Analysis][1-1G]               | Unit 2 | Session 7 | 
-[Data Visualization in Python][1-1H]            | Unit 2 | Session 8 | 
+[Data Visualization in Python][1-1H]            | Unit 2 | Session 7 | 
+[Statistics Review][1-1E]                       | Unit 2 | Session 8 | 
 [FLEX: Review + Project Workshop][1-1I]         | Unit 2 | Session 9 | 
 --- | ---  | ---  |
 [Linear Regression][1-1J]                       | Unit 3 | Session 10 | 
