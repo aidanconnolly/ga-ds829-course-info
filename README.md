@@ -89,9 +89,9 @@ Lesson  | Unit Number | Session Number |
 [Logistic Regression][1-1M]                     | Unit 3 | Session 13 | 
 [FLEX: Review + Project Workshop][1-1N]         | Unit 3 | Session 14 | 
 --- | ---  | ---  |
-[Working With API Data][1-1O]                   | Unit 4 | Session 15 | 
-[Natural Language Processing][1-1P]             | Unit 4 | Session 16 | 
-[Decision Trees][1-1Q]                          | Unit 4 | Session 17 | 
+[Decision Trees][1-1Q]                          | Unit 4 | Session 15 | 
+[Working With API Data][1-1O]                   | Unit 4 | Session 16 | 
+[Natural Language Processing][1-1P]             | Unit 4 | Session 17 | 
 [FLEX: Instructor Choice][1-1R]                 | Unit 4 | Session 18 | 
 [FLEX: Review + Project Workshop][1-1T]         | Unit 4 | Session 19 | 
 [Final Project Presentations][1-1U]             | Unit 4 | Session 20 | 
