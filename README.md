@@ -34,11 +34,11 @@ In this program, we will use Python to explore datasets, build predictive models
 - **Machine Learning & Modeling Techniques**: 
  - Explore supervised learning techniques, inlcuding classification, regression, and decision trees.
 - **Visualizations & Presentations**: 
- - Create visualizations and interactive notebooks to present to technical stakeholders.
+ - Create visualizations and interactive notebooks to present to industry stakeholders.
 
 
 ### Python Version
-The curriculum materials for this course are written in Python 3.6; however, some legacy Python 2.7 versions are available and can be accessed by checking out the relevant `python-2` branch in a given repsoitory.
+The curriculum materials for this course are written in Python 3.6.
 
 ---
 <a id='team'></a>
