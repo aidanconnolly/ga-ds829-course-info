@@ -123,18 +123,27 @@ Lesson  | Unit Number | Session Number |
 <a id='projects'></a>
 ## Project Structure
 
-This course will ask you to complete two sets of projects: short **unit** projects and a longer **final** project.
+This course will ask you to complete a series of projects in order to practice and apply the skills covered in-class.
 
 ### Unit Projects
-At the end of each unit, we'll ask you to complete a small project. These enrichment projects require you to synthesize the skills learned in that unit. There are **three** unit projects.
+At the end of Units 1-3, you'll work on short structured projects. These activities will test your understanding of each unit’s most important concepts with in-class practice and instructor support. 
 
-> Note: Unit projects 1 and 2 are required, whereas Unit 3 project is optional... but strongly encouraged!
+For those of you who want to go above and beyond, we’ve also included stretch options, bonus activities, and other opportunities for further reading and practice.
 
 ### Final Project
 
-You'll also complete a longer final project, which asks you to apply your skills to a real world problem. At the end of the course, you'll be asked to share your final project with peers and colleagues.
+You'll also complete a final project, asking you to apply your skills to a real-world or business problem of your choice.
 
-The final project is broken down into five smaller deliverables, which walks you through every step of the data science workflow as you tackle a real world project.
+The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your life, industry, or organization. You’ll create a hypothesis, analyze internal data, and generate a working model, prototype, solution, or recommendation.
+
+You will get structured guidance and designated time to work throughout the course. Final project deliverables include:
+
+- Project Proposal: Describe your chosen problem and whether you have access to relevant data.
+- Share a brief summary of your initial analysis and next steps in order to get assistance from your instructional team.
+- Submit a cleanly formatted Jupyter notebook (or other files) documenting your code and process for technical/peer stakeholders.
+- Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
+
+---
 
 #### Project Breakdown
 
@@ -152,6 +161,8 @@ The final project is broken down into five smaller deliverables, which walks you
 [2-1B]:  https://git.generalassemb.ly/data-part-time/unit-2_project
 [2-1C]:  https://git.generalassemb.ly/data-part-time/unit-3_project
 [2-1D]:  https://git.generalassemb.ly/data-part-time/unit-4_project
+
+---
 
 #### Project Schedule
 
@@ -179,7 +190,7 @@ The final project is broken down into five smaller deliverables, which walks you
 ---
 
 <a id='tech'></a>
-## Recommended Technology Requirements
+## Technology Requirements
 
 ### Hardware
 
