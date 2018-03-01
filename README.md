@@ -190,7 +190,7 @@ The final project is broken down into five smaller deliverables, which walks you
 
 1. Download and Install [Anaconda with Python 3.6](https://www.continuum.io/downloads).
 
-> Note: Anaconda provides support for two different versions of Python. We'll primarily use Python 3.6 in this course. 
+> Note: Anaconda provides support for two different versions of Python. We'll use Python 3.6 in this course. 
 
 **PC only**
 - Install [Git Bash](https://git-for-windows.github.io/)
