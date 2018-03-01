@@ -138,10 +138,10 @@ The capstone is an opportunity for you to demonstrate your new skills and tackle
 
 You will get structured guidance and designated time to work throughout the course. Final project deliverables include:
 
-- Project Proposal: Describe your chosen problem and whether you have access to relevant data.
-- Share a brief summary of your initial analysis and next steps in order to get assistance from your instructional team.
-- Submit a cleanly formatted Jupyter notebook (or other files) documenting your code and process for technical/peer stakeholders.
-- Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
+- **Proposal**: Describe your chosen problem and whether you have access to relevant data.
+- **Brief**: Share a brief summary of your initial analysis and next steps in order to get assistance from your instructional team.
+- **Report**: Submit a cleanly formatted Jupyter notebook (or other files) documenting your code and process for technical/peer stakeholders.
+- **Presentation**: Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
 
 ---
 
