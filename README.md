@@ -2,15 +2,15 @@
 
 
 1. [Welcome](#welcome)
-2. [Your Team](#team)
-3. [Course Overview](#course)
-4. [Course Schedule](#schedule)
-5. [Projects](#projects)
-6. [Tech Requirements](#tech)
-7. [Classroom Tools: Slack](#slack)
-8. [Student Expectations](#expectations)
-9. [Office Hours](#hours)
-10. [Student Feedback](#feedback)
+1. [Your Team](#team)
+1. [Course Overview](#course)
+1. [Course Schedule](#schedule)
+1. [Projects](#projects)
+1. [Tech Requirements](#tech)
+1. [Classroom Tools](#slack)
+1. [Student Expectations](#expectations)
+1. [Office Hours](#hours)
+1. [Student Feedback](#feedback)
 
 ---
 
@@ -181,12 +181,12 @@ The final project is broken down into five smaller deliverables, which walks you
 <a id='tech'></a>
 ## Recommended Technology Requirements
 
-#### Hardware
+### Hardware
 
 1. 8GB Ram (at least)
 2. 10GB Free Hard Drive Space (after installing Anaconda)
 
-#### Software
+### Software
 
 1. Download and Install [Anaconda with Python 3.6](https://www.continuum.io/downloads).
 
@@ -195,10 +195,10 @@ The final project is broken down into five smaller deliverables, which walks you
 **PC only**
 - Install [Git Bash](https://git-for-windows.github.io/)
 
-#### Browser Check
+### Browser
 - Google Chome
 
-#### Additional Items
+###  Miscellaneous
 - Text editor; we recommend [Atom](https://atom.io)
 ---
 
