@@ -165,10 +165,10 @@ You will get structured guidance and designated time to work throughout the cour
 
 ### Project Schedule
 
-Project 1: Due @ End of Unit 1
-Project 2: Due @ End of Unit 2
-Project 3: Due @ End of Unit 3
-Project 4 (Final):
+- Project 1: Due @ End of Unit 1
+- Project 2: Due @ End of Unit 2
+- Project 3: Due @ End of Unit 3
+- Project 4 (Final):
     - Proposal + Dataset: Due @ End of Unit 2
     - Initial EDA Brief: Due @ End of Unit 3
     - Technical Report: Due @ End of Unit 4
