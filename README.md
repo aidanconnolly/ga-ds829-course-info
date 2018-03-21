@@ -77,10 +77,10 @@ Lesson  | Unit Number | Session Number |
 [Python Foundations][1-1C]                      | Unit 1 | Session 3 |  
 FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | 
 --- | ---  | ---  |
-[Exploratory Data Analysis in Pandas][1-1D]     | Unit 2 | Session 5 | 
-[Experiments & Hypothesis Testing][1-1E]        | Unit 2 | Session 6 | 
-[Data Visualization in Python][1-1F]            | Unit 2 | Session 7 | 
-[Statistics Review][1-1G]                       | Unit 2 | Session 8 | 
+[Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 | 
+[Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 6 | 
+[Data Visualization in Python][1-1G]            | Unit 2 | Session 7 | 
+[Statistics Review][1-1H]                       | Unit 2 | Session 8 | 
 FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | 
 --- | ---  | ---  |
 [Linear Regression][1-1J]                       | Unit 3 | Session 10 | 
@@ -89,33 +89,32 @@ FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 |
 [Logistic Regression][1-1M]                     | Unit 3 | Session 13 | 
 FLEX: Project Workshop + Presentations          | Unit 3 | Session 14 | 
 --- | ---  | ---  |
-[Working With Data: APIs][1-1N]                 | Unit 4 | Session 15 | 
-[Intro to Natural Language Processing][1-1O]    | Unit 4 | Session 16 | 
-[Intro to Time Series][1-1P]                    | Unit 4 | Session 17 | 
+[Working With Data: APIs][1-1O]                 | Unit 4 | Session 15 | 
+[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 16 | 
+[Intro to Time Series][1-1Q]                    | Unit 4 | Session 17 | 
 FLEX: Instructor Choice                         | Unit 4 | Session 18 | 
 FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | 
-[Final Project Presentations][1-1U]             | Unit 4 | Session 20 | 
+[Final Project Presentations][1-1T]             | Unit 4 | Session 20 | 
 
 [1-1A]: https://git.generalassemb.ly/data-part-time/welcome-to-data-science
 [1-1B]: https://git.generalassemb.ly/data-part-time/your-development-environment
 [1-1C]: https://git.generalassemb.ly/data-part-time/python-foundations
 
-[1-1D]: https://git.generalassemb.ly/data-part-time/exploratory-data-analysis
-[1-1E]: https://git.generalassemb.ly/data-part-time/experiments-hypothesis-tests
-[1-1F]: https://git.generalassemb.ly/data-part-time/visualizations
-[1-1G]: https://git.generalassemb.ly/data-part-time/statistics-review
+[1-1E]: https://git.generalassemb.ly/data-part-time/exploratory-data-analysis
+[1-1F]: https://git.generalassemb.ly/data-part-time/experiments-hypothesis-tests
+[1-1G]: https://git.generalassemb.ly/data-part-time/visualizations
+[1-1H]: https://git.generalassemb.ly/data-part-time/statistics-review
 
 [1-1J]: https://git.generalassemb.ly/data-part-time/linear-regression
 [1-1K]: https://git.generalassemb.ly/data-part-time/train-test-split-and-bias-variance
 [1-1L]: https://git.generalassemb.ly/data-part-time/knn-classification
 [1-1M]: https://git.generalassemb.ly/data-part-time/logistic-regression
 
-[1-1N]: https://git.generalassemb.ly/data-part-time/getting-data-APIs
-[1-1O]: https://git.generalassemb.ly/data-part-time/natural-language-processing
-[1-1P]: https://git.generalassemb.ly/data-part-time/flex_time-series
-[1-1Q]: X
+[1-1O]: https://git.generalassemb.ly/data-part-time/getting-data-APIs
+[1-1P]: https://git.generalassemb.ly/data-part-time/natural-language-processing
+[1-1Q]: https://git.generalassemb.ly/data-part-time/flex_time-series
 
-[1-1U]: https://git.generalassemb.ly/data-part-time/unit-4_project
+[1-1T]: https://git.generalassemb.ly/data-part-time/unit-4_project
 
 ---
 
