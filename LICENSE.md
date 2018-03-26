@@ -1,4 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) General Assembly - Data Science Course Curriculum Licenses
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) General Assembly - Data Science
+
+> Data Science Course Curriculum Licenses
 
 ## Contents
 - [CC-BY-NC-SA 4.0](#CC)
