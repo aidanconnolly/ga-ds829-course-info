@@ -44,9 +44,9 @@ The curriculum materials for this course are written in Python 3.6.
 <a id='team'></a>
 ## Your Instructional Team
 
-**Instructor**: [X](X)
+**Instructors**: [Greg Godreau](https://www.github.com/ggodreau) and [Carleton Smith](https://generalassemb.ly/instructors/carleton-smith/13938)
 
-**Assistant**: [X](X)
+**Assistants**: [Travis Huang](https://github.com/travisDhuang) and [William Peterson](https://github.com/wipegup)
 
 ---
 
@@ -96,25 +96,25 @@ FLEX: Instructor Choice                         | Unit 4 | Session 18 |
 FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | 
 [Final Project Presentations][1-1T]             | Unit 4 | Session 20 | 
 
-[1-1A]: https://git.generalassemb.ly/data-part-time/welcome-to-data-science
-[1-1B]: https://git.generalassemb.ly/data-part-time/your-development-environment
-[1-1C]: https://git.generalassemb.ly/data-part-time/python-foundations
+[1-1A]: https://git.generalassemb.ly/DAT-COG-1/welcome-to-data-science
+[1-1B]: https://git.generalassemb.ly/DAT-COG-1/your-development-environment
+[1-1C]: https://git.generalassemb.ly/DAT-COG-1/python-foundations
 
-[1-1E]: https://git.generalassemb.ly/data-part-time/exploratory-data-analysis
-[1-1F]: https://git.generalassemb.ly/data-part-time/experiments-hypothesis-tests
-[1-1G]: https://git.generalassemb.ly/data-part-time/visualizations
-[1-1H]: https://git.generalassemb.ly/data-part-time/statistics-in-python
+[1-1E]: https://git.generalassemb.ly/DAT-COG-1/exploratory-data-analysis
+[1-1F]: https://git.generalassemb.ly/DAT-COG-1/experiments-hypothesis-tests
+[1-1G]: https://git.generalassemb.ly/DAT-COG-1/visualizations
+[1-1H]: https://git.generalassemb.ly/DAT-COG-1/statistics-in-python
 
-[1-1J]: https://git.generalassemb.ly/data-part-time/linear-regression
-[1-1K]: https://git.generalassemb.ly/data-part-time/train-test-split-and-bias-variance
-[1-1L]: https://git.generalassemb.ly/data-part-time/knn-classification
-[1-1M]: https://git.generalassemb.ly/data-part-time/logistic-regression
+[1-1J]: https://git.generalassemb.ly/DAT-COG-1/linear-regression
+[1-1K]: https://git.generalassemb.ly/DAT-COG-1/train-test-split-and-bias-variance
+[1-1L]: https://git.generalassemb.ly/DAT-COG-1/knn-classification
+[1-1M]: https://git.generalassemb.ly/DAT-COG-1/logistic-regression
 
-[1-1O]: https://git.generalassemb.ly/data-part-time/getting-data-APIs
-[1-1P]: https://git.generalassemb.ly/data-part-time/natural-language-processing
-[1-1Q]: https://git.generalassemb.ly/data-part-time/flex_time-series
+[1-1O]: https://git.generalassemb.ly/DAT-COG-1/getting-data-APIs
+[1-1P]: https://git.generalassemb.ly/DAT-COG-1/natural-language-processing
+[1-1Q]: https://git.generalassemb.ly/DAT-COG-1/flex_time-series
 
-[1-1T]: https://git.generalassemb.ly/data-part-time/unit-4_project
+[1-1T]: https://git.generalassemb.ly/DAT-COG-1/unit-4_project
 
 ---
 
@@ -131,7 +131,7 @@ For those of you who want to go above and beyond, we’ve also included stretch 
 
 ### Final Project
 
-You'll also complete a [final project](https://git.generalassemb.ly/data-part-time/unit-4_project), asking you to apply your skills to a real-world or business problem of your choice.
+You'll also complete a [final project](https://git.generalassemb.ly/DAT-COG-1/unit-4_project), asking you to apply your skills to a real-world or business problem of your choice.
 
 The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your life, industry, or organization. You’ll create a hypothesis, analyze internal data, and generate a working model, prototype, solution, or recommendation.
 
@@ -155,10 +155,10 @@ You will get structured guidance and designated time to work throughout the cour
     - Part 3: Technical Report
     - Part 4: Presentation
 
-[2-1A]:  https://git.generalassemb.ly/data-part-time/unit-1_project
-[2-1B]:  https://git.generalassemb.ly/data-part-time/unit-2_project
-[2-1C]:  https://git.generalassemb.ly/data-part-time/unit-3_project
-[2-1D]:  https://git.generalassemb.ly/data-part-time/unit-4_project
+[2-1A]:  https://git.generalassemb.ly/DAT-COG-1/unit-1_project
+[2-1B]:  https://git.generalassemb.ly/DAT-COG-1/unit-2_project
+[2-1C]:  https://git.generalassemb.ly/DAT-COG-1/unit-3_project
+[2-1D]:  https://git.generalassemb.ly/DAT-COG-1/unit-4_project
 
 ---
 
@@ -223,7 +223,7 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 ## Office Hours
 Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
 
-* Instructor's Office Hours - Day, Time (or by Appointment)
+* Instructor's Office Hours - by Appointment
 * Assistant's Office Hours - Day, Time (or by Appointment)
 
 Slack us or post in our #officehours channel to reserve a time-slot!
@@ -235,6 +235,6 @@ Slack us or post in our #officehours channel to reserve a time-slot!
 
 Throughout the course, you'll be asked to provide feedback about your experience. This feedback is extremely important, as it helps us provide you with a better learning experience.
 
-[Insert specific VTS/Exit Ticket details here]
+[Exit ticket link](https://www.surveymonkey.com/r/QL8586V?Cohort_ID=COG002-ONLINE-DS-R-1)
 
 ---
