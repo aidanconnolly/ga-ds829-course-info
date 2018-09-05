@@ -220,6 +220,13 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 - Students who miss more than 2 sessions during the course **are at risk of not being eligible for graduation**.
 
 - Asking for help: ask the docs, ask google, ask a friend, ask an IA (Travis or William).
+- How to ask for help:
+  - Problem description
+  - Environment reproduction (versions, etc.)
+  - Steps to reproduce the problem
+  - Expected result
+  - Actual result (error message, screenshots, etc.)
+
 
 ---
 
