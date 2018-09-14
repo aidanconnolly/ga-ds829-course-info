@@ -44,9 +44,9 @@ The curriculum materials for this course are written in Python 3.6.
 <a id='team'></a>
 ## Your Instructional Team
 
-**Instructors**: [Greg Godreau](https://www.github.com/ggodreau) and [Carleton Smith](https://generalassemb.ly/instructors/carleton-smith/13938)
+**Instructor**: [X](X)
 
-**Assistants**: [Travis Huang](https://github.com/travisDhuang) and [William Peterson](https://github.com/wipegup)
+**Assistant**: [X](X)
 
 ---
 
@@ -72,29 +72,29 @@ Here is the schedule we will be following for our part time data science course:
 
 Lesson  | Unit Number | Session Number |
 --- | ---  | ---  |
-[Welcome to Data Science][1-1A]                 | Unit 1 9/8 | Session 1 |
-[Your Development Environment][1-1B]            | Unit 1 9/8 | Session 2 | 
-[Python Foundations][1-1C] shedule capstone meetings | Unit 1 9/9 | Session 3 |  
-FLEX: Project Workshop + Presentations          | Unit 1 9/9 | Session 4 | 
+[Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 |
+[Your Development Environment][1-1B]            | Unit 1 | Session 2 | 
+[Python Foundations][1-1C]                      | Unit 1 | Session 3 |  
+FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | 
 --- | ---  | ---  |
-[Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 9/15 | Session 5 | 
-[Experiments & Hypothesis Testing][1-1F]        | Unit 2 9/15 | Session 6 | 
-[Data Visualization in Python][1-1G]            | Unit 2 9/16 | Session 7 | 
-[Statistics in Python][1-1H]                    | Unit 2 9/16 | Session 8 | 
-FLEX: Project Workshop + Presentations          | Unit 2 9/16 | Session 9 | 
+[Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 | 
+[Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 6 | 
+[Data Visualization in Python][1-1G]            | Unit 2 | Session 7 | 
+[Statistics in Python][1-1H]                    | Unit 2 | Session 8 | 
+FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | 
 --- | ---  | ---  |
-[Linear Regression][1-1J]                       | Unit 3 9/29 | Session 10 | 
-[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 9/29 | Session 11 | 
-[KNN / Classification][1-1L]                    | Unit 3 9/30 | Session 12 | 
-[Logistic Regression][1-1M]                     | Unit 3 9/30 | Session 13 | 
-FLEX: Project Workshop + Presentations          | Unit 3 9/30 | Session 14 | 
+[Linear Regression][1-1J]                       | Unit 3 | Session 10 | 
+[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11 | 
+[KNN / Classification][1-1L]                    | Unit 3 | Session 12 | 
+[Logistic Regression][1-1M]                     | Unit 3 | Session 13 | 
+FLEX: Project Workshop + Presentations          | Unit 3 | Session 14 | 
 --- | ---  | ---  |
-[Working With Data: APIs][1-1O]                 | Unit 4 10/6 | Session 15 | 
-[Intro to Natural Language Processing][1-1P]    | Unit 4 10/6 | Session 16 | 
-[Intro to Time Series][1-1Q]                    | Unit 4 10/7 | Session 17 | 
-FLEX: Instructor Choice                         | Unit 4 10/7 | Session 18 | 
-FLEX: Review + Project Workshop                 | Unit 4 10/20 | Session 19 | 
-[Final Project Presentations][1-1T]             | Unit 4 10/21 | Session 20 | 
+[Working With Data: APIs][1-1O]                 | Unit 4 | Session 15 | 
+[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 16 | 
+[Intro to Time Series][1-1Q]                    | Unit 4 | Session 17 | 
+FLEX: Instructor Choice                         | Unit 4 | Session 18 | 
+FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | 
+[Final Project Presentations][1-1T]             | Unit 4 | Session 20 | 
 
 [1-1A]: ../../../welcome-to-data-science
 [1-1B]: ../../../your-development-environment
@@ -180,8 +180,8 @@ You will get structured guidance and designated time to work throughout the cour
 
 ### Hardware
 
-1. 4GB Ram (at least)
-2. 3GB Free Hard Drive Space 
+1. 8GB Ram (at least)
+2. 10GB Free Hard Drive Space (after installing Anaconda)
 
 ### Software
 
@@ -203,7 +203,7 @@ You will get structured guidance and designated time to work throughout the cour
 <a id='slack'></a>
 ## <img src="https://lh3.googleusercontent.com/CzlsZP3xUHeX3HAGdZ2rL9mK6_C-6T1-YWeBeM8nB3ilmfPSBHCFx4-UbQr8MnQms3d9=w300" width="25px"> Slack
 
-We'll use Slack for our class communications platform. Slack is a messaging platform where you can chat with your peers and instructors. We will use Slack to share information about the course, discuss lessons, and submit projects. Our Slack homepage is [here](https://cognizantdata.slack.com/).
+We'll use Slack for our class communications platform. Slack is a messaging platform where you can chat with your peers and instructors. We will use Slack to share information about the course, discuss lessons, and submit projects. Our Slack homepage is [X](x).
 
 **Pro Tip**: If you've never used Slack before, check out these resources:
 - [Intro to Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
@@ -215,18 +215,7 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 <a id='expectations'></a>
 ## Expectations
 
-- Each calendar day has two 'sessions' - the morning and afternoon.
-- Attendance is required and will be taken at the beginning of both the morning session and afternoon session.
-- Students who miss more than 2 sessions during the course **are at risk of not being eligible for graduation**.
-
-- Asking for help: ask the docs, ask google, ask a friend, ask an IA (Travis or William).
-- How to ask for help:
-  - Problem description
-  - Environment reproduction (versions, etc.)
-  - Steps to reproduce the problem
-  - Expected result
-  - Actual result (error message, screenshots, etc.)
-
+[Add specific local market attendance, student policy, and parking expectations here]
 
 ---
 
@@ -234,10 +223,10 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 ## Office Hours
 Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
 
-* Assistant's Office Hours - TBD
-* Instructor's Office Hours - by Appointment (evenings preferred)
+* Instructor's Office Hours - Day, Time (or by Appointment)
+* Assistant's Office Hours - Day, Time (or by Appointment)
 
-Slack us to reserve a time-slot!
+Slack us or post in our #officehours channel to reserve a time-slot!
 
 ---
 
@@ -246,6 +235,6 @@ Slack us to reserve a time-slot!
 
 Throughout the course, you'll be asked to provide feedback about your experience. This feedback is extremely important, as it helps us provide you with a better learning experience.
 
-[Exit ticket link](https://www.surveymonkey.com/r/QL8586V?Cohort_ID=COG002-ONLINE-DS-R-1)
+[Insert specific VTS/Exit Ticket details here]
 
 ---
