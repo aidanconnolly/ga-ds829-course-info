@@ -100,10 +100,10 @@ FLEX: Review + Project Workshop                 | Unit 4 10/20 | Session 19 |
 [1-1B]: https://git.generalassemb.ly/DAT-COG-1/your-development-environment
 [1-1C]: https://git.generalassemb.ly/DAT-COG-1/python-foundations
 
-[1-1E]: https://git.generalassemb.ly/DAT-COG-1/exploratory-data-analysis
+[1-1E]: https://git.generalassemb.ly/DAT-COG-1/eda-with-pandas
 [1-1F]: https://git.generalassemb.ly/DAT-COG-1/experiments-hypothesis-tests
-[1-1G]: https://git.generalassemb.ly/DAT-COG-1/visualizations
-[1-1H]: https://git.generalassemb.ly/DAT-COG-1/statistics-in-python
+[1-1G]: https://git.generalassemb.ly/DAT-COG-1/data-visualization-in-python
+[1-1H]: ../../statistics-in-python
 
 [1-1J]: https://git.generalassemb.ly/DAT-COG-1/linear-regression
 [1-1K]: https://git.generalassemb.ly/DAT-COG-1/train-test-split-and-bias-variance
