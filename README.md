@@ -103,7 +103,7 @@ FLEX: Review + Project Workshop                 | Unit 4 10/20 | Session 19 |
 [1-1E]: https://git.generalassemb.ly/DAT-COG-1/eda-with-pandas
 [1-1F]: https://git.generalassemb.ly/DAT-COG-1/experiments-hypothesis-tests
 [1-1G]: https://git.generalassemb.ly/DAT-COG-1/data-visualization-in-python
-[1-1H]: ../../statistics-in-python
+[1-1H]: ../../../statistics-in-python
 
 [1-1J]: https://git.generalassemb.ly/DAT-COG-1/linear-regression
 [1-1K]: https://git.generalassemb.ly/DAT-COG-1/train-test-split-and-bias-variance
