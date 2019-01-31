@@ -78,9 +78,9 @@ Lesson  | Unit Number | Session Number |
 FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | 
 --- | ---  | ---  |
 [Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 | 
-[Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 6 | 
-[Data Visualization in Python][1-1G]            | Unit 2 | Session 7 | 
-[Statistics in Python][1-1H]                    | Unit 2 | Session 8 | 
+[Data Visualization in Python][1-1G]            | Unit 2 | Session 6 | 
+[Statistics in Python][1-1H]                    | Unit 2 | Session 7 | 
+[Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 8 | 
 FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | 
 --- | ---  | ---  |
 [Linear Regression][1-1J]                       | Unit 3 | Session 10 | 
