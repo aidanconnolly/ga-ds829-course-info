@@ -75,37 +75,42 @@ Lesson  | Unit Number | Session Number |
 [Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 |
 [Your Development Environment][1-1B]            | Unit 1 | Session 2 | 
 [Python Foundations][1-1C]                      | Unit 1 | Session 3 |  
-FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | 
+[Project Review][1-1D]                          | Unit 1 | Session 4 | 
 --- | ---  | ---  |
 [Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 | 
-[Data Visualization in Python][1-1G]            | Unit 2 | Session 6 | 
+[Data Visualization in Python][1-1F]            | Unit 2 | Session 6 | 
 [Statistics in Python][1-1H]                    | Unit 2 | Session 7 | 
-[Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 8 | 
-FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | 
+[Experiments & Hypothesis Testing][1-1G]        | Unit 2 | Session 8 | 
+[Linear Regression][1-1I]                       | Unit 2 | Session 9 | 
 --- | ---  | ---  |
-[Linear Regression][1-1J]                       | Unit 3 | Session 10 | 
+[Logistic Regression][1-1M]                     | Unit 3 | Session 10 | 
 [Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11 | 
 [KNN / Classification][1-1L]                    | Unit 3 | Session 12 | 
-[Logistic Regression][1-1M]                     | Unit 3 | Session 13 | 
-FLEX: Project Workshop + Presentations          | Unit 3 | Session 14 | 
+[Decision Trees][1-1S]                          | Unit 3 | Session 13 | 
+Flex Topic - Decision Trees (continued)         | Unit 3 | Session 14 | 
 --- | ---  | ---  |
-[Working With Data: APIs][1-1O]                 | Unit 4 | Session 15 | 
-[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 16 | 
-[Intro to Time Series][1-1Q]                    | Unit 4 | Session 17 | 
-FLEX: Instructor Choice                         | Unit 4 | Session 18 | 
-FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | 
-[Final Project Presentations][1-1T]             | Unit 4 | Session 20 | 
+[Intro to Time Series][1-1Q]                    | Unit 4 | Session 15 | 
+[Clustering][1-1U]                              | Unit 4 | Session 16 | 
+[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 17 | 
+[Working With Data: APIs][1-1O]                 | Unit 4 | Session 18 | 
+[Flex Topics][1-1V]                             | Unit 4 | Session 19 | 
+Final Project Presentations                     | Unit 4 | Session 20 | 
+
+
+Class recordings are available [here](./class_recordings.md)
+
 
 [1-1A]: ../../../welcome-to-data-science
 [1-1B]: ../../../your-development-environment
 [1-1C]: ../../../python-foundations
+[1-1D]: ../../../unit-1_project
 
 [1-1E]: ../../../eda-with-pandas
-[1-1F]: ../../../experiments-hypothesis-tests
-[1-1G]: ../../../data-visualization-in-python
+[1-1F]: ../../../data-visualization-in-python 
+[1-1G]: ../../../experiments-hypothesis-tests
 [1-1H]: ../../../statistics-in-python
+[1-1I]: ../../../linear-regression
 
-[1-1J]: ../../../linear-regression
 [1-1K]: ../../../train-test-split-and-bias-variance
 [1-1L]: ../../../knn-classification
 [1-1M]: ../../../logistic-regression
@@ -113,8 +118,11 @@ FLEX: Review + Project Workshop                 | Unit 4 | Session 19 |
 [1-1O]: ../../../getting-data-APIs
 [1-1P]: ../../../natural-language-processing
 [1-1Q]: ../../../flex_time-series
-
+[1-1S]: ../../../decision-trees
 [1-1T]: ../../../unit-4_project
+
+[1-1U]: ../../../flex_clustering
+[1-1V]: ../../../flex_topics
 
 ---
 
@@ -203,7 +211,7 @@ You will get structured guidance and designated time to work throughout the cour
 <a id='slack'></a>
 ## <img src="https://lh3.googleusercontent.com/CzlsZP3xUHeX3HAGdZ2rL9mK6_C-6T1-YWeBeM8nB3ilmfPSBHCFx4-UbQr8MnQms3d9=w300" width="25px"> Slack
 
-We'll use Slack for our class communications platform. Slack is a messaging platform where you can chat with your peers and instructors. We will use Slack to share information about the course, discuss lessons, and submit projects. Our Slack homepage is [X](x).
+We'll use Slack for our class communications platform. Slack is a messaging platform where you can chat with your peers and instructors. We will use Slack to share information about the course, discuss lessons, and submit projects. Our Slack homepage is [datr-531](q2techdata2022.slack.com).
 
 **Pro Tip**: If you've never used Slack before, check out these resources:
 - [Intro to Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
@@ -223,8 +231,8 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 ## Office Hours
 Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
 
-* Instructor's Office Hours - Day, Time (or by Appointment)
-* Assistant's Office Hours - Day, Time (or by Appointment)
+* Instructor's Office Hours - by appointment
+* Assistant's Office Hours - by appointment)
 
 Slack us or post in our #officehours channel to reserve a time-slot!
 
@@ -235,6 +243,5 @@ Slack us or post in our #officehours channel to reserve a time-slot!
 
 Throughout the course, you'll be asked to provide feedback about your experience. This feedback is extremely important, as it helps us provide you with a better learning experience.
 
-[Insert specific VTS/Exit Ticket details here]
-
+Access Exit Ticket [Here](https://docs.google.com/forms/d/e/1FAIpQLSd_H3Q4QdsSsiMIxx9R-vAORyf4X5JarYC3MATm9ScbT6bFcw/viewform?usp=sf_link)
 ---
