@@ -44,9 +44,9 @@ The curriculum materials for this course are written in Python 3.6.
 <a id='team'></a>
 ## Your Instructional Team
 
-**Instructor**: [X](X)
+**Instructor**: [Dami Lasisi](https://www.linkedin.com/in/dami-lasisi/)
 
-**Assistant**: [X](X)
+**Assistant**: [Sara Soueidan](https://www.linkedin.com/in/sara-soueidan/) and [Ed Salinas](https://www.linkedin.com/in/edrian-ed-salinas/)
 
 ---
 
