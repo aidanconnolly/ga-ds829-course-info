@@ -232,7 +232,7 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
 
 * Instructor's Office Hours - by appointment
-* Assistant's Office Hours - by appointment)
+* Sara Soueidan Office Hours: Saturday, 10am to 2pm
 
 Slack us or post in our #officehours channel to reserve a time-slot!
 
