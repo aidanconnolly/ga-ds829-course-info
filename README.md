@@ -233,6 +233,7 @@ Every week, your instructional team will hold office hours where you can get in 
 
 * Instructor's Office Hours - by appointment
 * Sara Soueidan Office Hours: Saturday, 10am to 2pm
+* Ed Salinas - Sun: 7-9 PM EST, Wed: 8-10 PM EST, Sign up on [Calendly](https://calendly.com/edrian-salinas/30min)
 
 Slack us or post in our #officehours channel to reserve a time-slot!
 
