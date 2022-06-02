@@ -9,7 +9,8 @@ For security reasons the all class recordings are protected by the **password** 
 
 ### Recorded Classes
 
-Class 1: Welcome to Data Science
+Class 1: [Welcome to Data Science](https://generalassembly.zoom.us/rec/share/1AjMOh9PsW8S0mg5rccQN98tVVgwt2XGs2ghMy4-gRVxQQAu6mAY2whV0tv4QNiE.oZcnLDesmLbn1LVU
+)
 
 Class 2: Your Development Environment
 
