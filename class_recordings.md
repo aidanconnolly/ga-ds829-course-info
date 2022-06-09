@@ -14,7 +14,7 @@ Class 1: [Welcome to Data Science](https://generalassembly.zoom.us/rec/share/1Aj
 
 Class 2: [Your Development Environment](https://generalassembly.zoom.us/rec/share/D_hcI3lma57FlEsHu7sk7jFJo5S9XV4CYRIfym1UOeZYLpRv7qc64j5Vij5P_2gR.hJHXJprarNvSpgj1)
 
-Class 3: Python Foundations
+Class 3: [Python Foundations](https://generalassembly.zoom.us/rec/share/LCBPpIRbT48ez_52Q6GB-Wes_JSwv4s-EpQqfYO1oDuhnoG-8wR4V63RDsub-br0.3_zvaDC4JOKsVVfZ)
 
 Class 4: Project 1 Review
 
