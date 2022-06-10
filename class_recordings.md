@@ -16,7 +16,7 @@ Class 2: [Your Development Environment](https://generalassembly.zoom.us/rec/shar
 
 Class 3: [Python Foundations](https://generalassembly.zoom.us/rec/share/LCBPpIRbT48ez_52Q6GB-Wes_JSwv4s-EpQqfYO1oDuhnoG-8wR4V63RDsub-br0.3_zvaDC4JOKsVVfZ)
 
-Class 4: Project 1 Review
+Class 4: [Project 1 Review](https://generalassembly.zoom.us/rec/share/wCdnueTDD0kiFxqj7idCf6EdrOSQ6otAdXlasQXUb3GHffNFopbun4FHgO400ixt.O2GfdGfNg0rVfxIH)
 
 Class 5: Exploratory Data Analysis in Pandas
 
