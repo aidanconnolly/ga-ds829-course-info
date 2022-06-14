@@ -87,7 +87,7 @@ Lesson  | Unit Number | Session Number |
 [Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11 | 
 [KNN / Classification][1-1L]                    | Unit 3 | Session 12 | 
 [Decision Trees][1-1S]                          | Unit 3 | Session 13 | 
-Flex Topic - Decision Trees (continued)         | Unit 3 | Session 14 | 
+Flex Topic                                      | Unit 3 | Session 14 | 
 --- | ---  | ---  |
 [Intro to Time Series][1-1Q]                    | Unit 4 | Session 15 | 
 [Clustering][1-1U]                              | Unit 4 | Session 16 | 
