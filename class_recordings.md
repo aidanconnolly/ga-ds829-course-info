@@ -18,7 +18,7 @@ Class 3: [Python Foundations](https://generalassembly.zoom.us/rec/share/LCBPpIRb
 
 Class 4: [Project 1 Review](https://generalassembly.zoom.us/rec/share/wCdnueTDD0kiFxqj7idCf6EdrOSQ6otAdXlasQXUb3GHffNFopbun4FHgO400ixt.O2GfdGfNg0rVfxIH)
 
-Class 5: Exploratory Data Analysis in Pandas
+Class 5: [Exploratory Data Analysis in Pandas](https://generalassembly.zoom.us/rec/share/Mc8MxMTWgtCUrwGmOwVfYcRYs5TSv9gSNfYb2qACkcy2q3h7qts9qyzjBGqlsxcW.4KJFNX21PAUAwSW3)
 
 Class 6: Data Visualization in Python
 
