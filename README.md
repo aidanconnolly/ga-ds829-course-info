@@ -173,8 +173,8 @@ You will get structured guidance and designated time to work throughout the cour
 ### Project Schedule
 
 - Project 1: Tuesday, June 14, 2022
-- Project 2: Tuesday, June 28, 2022
-- Project 3: Tuesday, July 1, 2022
+- Project 2: Thursday, June 30, 2022
+- Project 3: Tuesday, July 1, 2022 -- IGNORE
 - Project 4 (Final):
     - Proposal + Dataset: Thursday, June 16, 2022
     - Initial EDA Brief: Thursday, July 7, 2022
