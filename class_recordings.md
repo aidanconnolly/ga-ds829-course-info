@@ -20,7 +20,7 @@ Class 4: [Project 1 Review](https://generalassembly.zoom.us/rec/share/wCdnueTDD0
 
 Class 5: [Exploratory Data Analysis in Pandas](https://generalassembly.zoom.us/rec/share/Mc8MxMTWgtCUrwGmOwVfYcRYs5TSv9gSNfYb2qACkcy2q3h7qts9qyzjBGqlsxcW.4KJFNX21PAUAwSW3)
 
-Class 6: Data Visualization in Python
+Class 6: [Data Visualization in Python](https://generalassembly.zoom.us/rec/share/PlzAw8ElUWOMazBEMd-iPSluL8pfAPnxPBYk4vXSEm2FLZ1SyMRaRrdK4uUZ3fuV.AuvY3pPWzBCSasRs)
 
 Class 7: Statistics in Python
 
