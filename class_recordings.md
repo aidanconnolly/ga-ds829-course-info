@@ -22,9 +22,9 @@ Class 5: [Exploratory Data Analysis in Pandas](https://generalassembly.zoom.us/r
 
 Class 6: [Data Visualization in Python](https://generalassembly.zoom.us/rec/share/PlzAw8ElUWOMazBEMd-iPSluL8pfAPnxPBYk4vXSEm2FLZ1SyMRaRrdK4uUZ3fuV.AuvY3pPWzBCSasRs)
 
-Class 7: Statistics in Python
+Class 7: [Statistics in Python](https://generalassembly.zoom.us/rec/share/9JbdwWsaYEsqf28y7O0vVlTHDi7XtRt_hcE5loErDLO95Y4ju-5kQGrCVJ8vj20W.byAEVqdGNfsKHq-m)
 
-Class 8: Experiments & Hypothesis Testing
+Class 8: [Experiments & Hypothesis Testing](https://generalassembly.zoom.us/rec/share/UzfhKp29xjqK683Mh8cvP9u3YD6P7zOCiWZpjpj1wn8n5qQ1ohzRrPKizJkLnM6q.D2SB1cBbM4LN-GzI)
 
 Class 9: Linear Regression
 
