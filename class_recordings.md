@@ -26,7 +26,7 @@ Class 7: [Statistics in Python](https://generalassembly.zoom.us/rec/share/9JbdwW
 
 Class 8: [Experiments & Hypothesis Testing](https://generalassembly.zoom.us/rec/share/UzfhKp29xjqK683Mh8cvP9u3YD6P7zOCiWZpjpj1wn8n5qQ1ohzRrPKizJkLnM6q.D2SB1cBbM4LN-GzI)
 
-Class 9: Linear Regression
+Class 9: [Linear Regression](https://generalassembly.zoom.us/rec/share/Fo9ysOiYceOPtbitnbqpgcK2d5sSQcJ4GczGmwjtthTU7Jkwg6vgnRSeJyYb4R8y.WA04B5h6EF4LCOn3)
 
 Class 10: Logistic Regression
 
