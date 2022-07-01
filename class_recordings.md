@@ -28,7 +28,7 @@ Class 8: [Experiments & Hypothesis Testing](https://generalassembly.zoom.us/rec/
 
 Class 9: [Linear Regression](https://generalassembly.zoom.us/rec/share/Fo9ysOiYceOPtbitnbqpgcK2d5sSQcJ4GczGmwjtthTU7Jkwg6vgnRSeJyYb4R8y.WA04B5h6EF4LCOn3)
 
-Class 10: Logistic Regression
+Class 10: [Logistic Regression](https://generalassembly.zoom.us/rec/share/yCPWCYbiOUhE6LrpOVn-gmEZkHOpIpUST9CIk6fFhVU5E2VTWbpRCooL5zSXzY86._5VJ3miC-n_WzJ1t)
 
 Class 11: Train-Test Split & Bias-Variance
 
