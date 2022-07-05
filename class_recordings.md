@@ -24,15 +24,15 @@ Class 6: [Data Visualization in Python](https://generalassembly.zoom.us/rec/shar
 
 Class 7: [Statistics in Python](https://generalassembly.zoom.us/rec/share/9JbdwWsaYEsqf28y7O0vVlTHDi7XtRt_hcE5loErDLO95Y4ju-5kQGrCVJ8vj20W.byAEVqdGNfsKHq-m)
 
-Class 8: [Experiments & Hypothesis Testing](https://generalassembly.zoom.us/rec/share/UzfhKp29xjqK683Mh8cvP9u3YD6P7zOCiWZpjpj1wn8n5qQ1ohzRrPKizJkLnM6q.D2SB1cBbM4LN-GzI)
+Class 8: [Statistics in Python/Experiments & Hypothesis Testing](https://generalassembly.zoom.us/rec/share/UzfhKp29xjqK683Mh8cvP9u3YD6P7zOCiWZpjpj1wn8n5qQ1ohzRrPKizJkLnM6q.D2SB1cBbM4LN-GzI)
 
-Class 9: [Linear Regression](https://generalassembly.zoom.us/rec/share/Fo9ysOiYceOPtbitnbqpgcK2d5sSQcJ4GczGmwjtthTU7Jkwg6vgnRSeJyYb4R8y.WA04B5h6EF4LCOn3)
+Class 9: [Experiments & Hypothesis Testing/Linear Regression](https://generalassembly.zoom.us/rec/share/Fo9ysOiYceOPtbitnbqpgcK2d5sSQcJ4GczGmwjtthTU7Jkwg6vgnRSeJyYb4R8y.WA04B5h6EF4LCOn3)
 
-Class 10: [Logistic Regression](https://generalassembly.zoom.us/rec/share/yCPWCYbiOUhE6LrpOVn-gmEZkHOpIpUST9CIk6fFhVU5E2VTWbpRCooL5zSXzY86._5VJ3miC-n_WzJ1t)
+Class 10: [Linear Regression](https://generalassembly.zoom.us/rec/share/yCPWCYbiOUhE6LrpOVn-gmEZkHOpIpUST9CIk6fFhVU5E2VTWbpRCooL5zSXzY86._5VJ3miC-n_WzJ1t)
 
-Class 11: Train-Test Split & Bias-Variance
+Class 11: Logistic Regression
 
-Class 12: KNN/Classification
+Class 12: Train-Test Split & Bias-Variance/ KNN/Classification
 
 Class 13: Decision Trees
 
