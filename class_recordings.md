@@ -30,7 +30,7 @@ Class 9: [Experiments & Hypothesis Testing/Linear Regression](https://generalass
 
 Class 10: [Linear Regression](https://generalassembly.zoom.us/rec/share/yCPWCYbiOUhE6LrpOVn-gmEZkHOpIpUST9CIk6fFhVU5E2VTWbpRCooL5zSXzY86._5VJ3miC-n_WzJ1t)
 
-Class 11: Logistic Regression
+Class 11: [Logistic Regression](https://generalassembly.zoom.us/rec/share/wpKqfBMHLP_Br7G10zNktGsIE0aKM5_s90XMehoH_fArmb6-dVc-8PqMIpO7u9w9.cM2rQtnkLjDVyYIB)
 
 Class 12: Train-Test Split & Bias-Variance/ KNN/Classification
 
