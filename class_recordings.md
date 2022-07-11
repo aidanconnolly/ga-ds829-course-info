@@ -32,7 +32,7 @@ Class 10: [Linear Regression](https://generalassembly.zoom.us/rec/share/yCPWCYbi
 
 Class 11: [Logistic Regression](https://generalassembly.zoom.us/rec/share/wpKqfBMHLP_Br7G10zNktGsIE0aKM5_s90XMehoH_fArmb6-dVc-8PqMIpO7u9w9.cM2rQtnkLjDVyYIB)
 
-Class 12: Train-Test Split & Bias-Variance/ KNN/Classification
+Class 12: [Train-Test Split & Bias-Variance](https://generalassembly.zoom.us/rec/share/i3yUaq4B92a7BRZtbCXzST-PslM43TE-AMeKVN5Sdg2K10lCJ2mEqYVS-Clcpxam.0y3g91hoGcobCbfE)
 
 Class 13: Decision Trees
 
