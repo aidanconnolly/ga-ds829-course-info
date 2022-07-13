@@ -34,7 +34,7 @@ Class 11: [Logistic Regression](https://generalassembly.zoom.us/rec/share/wpKqfB
 
 Class 12: [Train-Test Split & Bias-Variance](https://generalassembly.zoom.us/rec/share/i3yUaq4B92a7BRZtbCXzST-PslM43TE-AMeKVN5Sdg2K10lCJ2mEqYVS-Clcpxam.0y3g91hoGcobCbfE)
 
-Class 13: Decision Trees
+Class 13: [KNN](https://generalassembly.zoom.us/rec/share/qUptuRieRmJEWzqYj8SZbe1e7LfiRB1ManZQbYiWJf2iCvU9Wmd5twP1K_-ZSGYV.j259tfkBcz1LQC9W)
 
 Class 14: FLEX Topics
 
