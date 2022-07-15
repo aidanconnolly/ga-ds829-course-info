@@ -36,7 +36,7 @@ Class 12: [Train-Test Split & Bias-Variance](https://generalassembly.zoom.us/rec
 
 Class 13: [KNN](https://generalassembly.zoom.us/rec/share/qUptuRieRmJEWzqYj8SZbe1e7LfiRB1ManZQbYiWJf2iCvU9Wmd5twP1K_-ZSGYV.j259tfkBcz1LQC9W)
 
-Class 14: FLEX Topics
+Class 14: [Decision Trees](https://generalassembly.zoom.us/rec/share/KmYEepMpKHwgyAA8W-iW0sIuNkGafA_enQEOEieDyXPeDCSSAjTfqRj3JodOxgSx.H2yckWgeeddH3BNO)
 
 Class 15: Intro to Time Series
 
