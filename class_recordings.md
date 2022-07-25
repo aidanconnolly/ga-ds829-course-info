@@ -38,9 +38,9 @@ Class 13: [KNN](https://generalassembly.zoom.us/rec/share/qUptuRieRmJEWzqYj8SZbe
 
 Class 14: [Decision Trees](https://generalassembly.zoom.us/rec/share/KmYEepMpKHwgyAA8W-iW0sIuNkGafA_enQEOEieDyXPeDCSSAjTfqRj3JodOxgSx.H2yckWgeeddH3BNO)
 
-Class 15: Intro to Time Series
+Class 15: [Random Forest/Intro to Time Series](https://generalassembly.zoom.us/rec/share/CZKQLaNKh8g1qOs3rnPMeomm9oupiUJnyJJi8DKdIJiwxC88eJ3uvxVixULQJLQ4.CqLJVlOpbpMUa0CB)
 
-Class 16: Clustering
+Class 16: [Into to Time Series](https://generalassembly.zoom.us/rec/share/2T_BtaYqji5bdy5GobYpRZY63RJ4AVWyuj3scAVf8QtZJRd2tVKE0KNGBo3iIWfa.0Du5WfMbclsriUGp)
 
 Class 17: Intro to Natural Language Processing
 
