@@ -90,10 +90,10 @@ Lesson  | Unit Number | Session Number |
 Decision Trees (continued)                      | Unit 3 | Session 14 | 
 --- | ---  | ---  |
 [Intro to Time Series][1-1Q]                    | Unit 4 | Session 15 | 
-[Clustering][1-1U]                              | Unit 4 | Session 16 | 
-[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 17 | 
-[Working With Data: APIs][1-1O]                 | Unit 4 | Session 18 | 
-[Flex Topics][1-1V]                             | Unit 4 | Session 19 | 
+Intro to Time Series (continued)                | Unit 4 | Session 16 | 
+[Clustering][1-1U]                              | Unit 4 | Session 17 | 
+[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 18 | 
+[Working With Data: APIs][1-1O]                 | Unit 4 | Session 19 | 
 Final Project Presentations                     | Unit 4 | Session 20 | 
 
 
