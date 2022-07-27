@@ -42,10 +42,10 @@ Class 15: [Random Forest/Intro to Time Series](https://generalassembly.zoom.us/r
 
 Class 16: [Into to Time Series](https://generalassembly.zoom.us/rec/share/2T_BtaYqji5bdy5GobYpRZY63RJ4AVWyuj3scAVf8QtZJRd2tVKE0KNGBo3iIWfa.0Du5WfMbclsriUGp)
 
-Class 17: Intro to Natural Language Processing
+Class 17: [Clustering](https://generalassembly.zoom.us/rec/share/Ry7wNMpSjPxGJUVKcoCgFKRqPWSf4hldVHMQ3Yfad20MZV3t9EvwYyZjqtVrHX6h.K1UCw2lujhQBrKU9)
 
-Class 18: Working With Data: APIs
+Class 18: Intro to Natural Language Processing
 
-Class 19: Flex Topics
+Class 19: Working With Data: APIs
 
 Class 20: Final Project Presentations
