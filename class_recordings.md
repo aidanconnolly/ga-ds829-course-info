@@ -44,7 +44,7 @@ Class 16: [Into to Time Series](https://generalassembly.zoom.us/rec/share/2T_Bta
 
 Class 17: [Clustering](https://generalassembly.zoom.us/rec/share/Ry7wNMpSjPxGJUVKcoCgFKRqPWSf4hldVHMQ3Yfad20MZV3t9EvwYyZjqtVrHX6h.K1UCw2lujhQBrKU9)
 
-Class 18: Intro to Natural Language Processing
+Class 18: [Intro to Natural Language Processing](https://generalassembly.zoom.us/rec/share/aBbDvap-fTuCPXWEPCRCal2LdOr_TduqEAf-z-SnRYlN_zHUsOhlsNG7TNej1T7R.voRwLodqgKX_D2UJ)
 
 Class 19: Working With Data: APIs
 
