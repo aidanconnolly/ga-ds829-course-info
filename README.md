@@ -229,8 +229,6 @@ Every week, your instructional team will hold office hours where you can get in 
 
 * Instructor's Office Hours - by appointment
 
-Slack us or post in our #officehours channel to reserve a time-slot!
-
 ---
 
 <a id='feedback'></a>
