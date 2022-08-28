@@ -240,6 +240,6 @@ Slack us or post in our #officehours channel to reserve a time-slot!
 
 Throughout the course, you'll be asked to provide feedback about your experience. This feedback is extremely important, as it helps us provide you with a better learning experience.
 
-Access Exit ticket [Here](https://docs.google.com/forms/d/e/1FAIpQLSdVpNuEg1b5VSOkdfniSbS5rrowBhwFV-n4G5MLtla9Z7Ugig/viewform)
+Access Exit ticket [here](https://docs.google.com/forms/d/e/1FAIpQLSdVpNuEg1b5VSOkdfniSbS5rrowBhwFV-n4G5MLtla9Z7Ugig/viewform)
 
 ---
