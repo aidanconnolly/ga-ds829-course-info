@@ -77,21 +77,21 @@ Lesson  | Unit Number | Session Number |
 --- | ---  | ---  |
 [Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 | 
 [Data Visualization in Python][1-1F]            | Unit 2 | Session 6 | 
-[Statistics in Python][1-1H]                    | Unit 2 | Session 7 | 
-[Experiments & Hypothesis Testing][1-1G]        | Unit 2 | Session 8 | 
+[Statistics in Python][1-1G]                    | Unit 2 | Session 7 | 
+[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 | 
 [Linear Regression][1-1I]                       | Unit 2 | Session 9 | 
 --- | ---  | ---  |
-[Logistic Regression][1-1M]                     | Unit 3 | Session 10 | 
+[Logistic Regression][1-1J]                     | Unit 3 | Session 10 | 
 [Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11 | 
 [KNN / Classification][1-1L]                    | Unit 3 | Session 12 | 
-[Decision Trees][1-1S]                          | Unit 3 | Session 13 | 
-Decision Trees (continued)                      | Unit 3 | Session 14 | 
+[Decision Trees][1-1M]                          | Unit 3 | Session 13 | 
+Flex Topics                                     | Unit 3 | Session 14 | 
 --- | ---  | ---  |
-[Intro to Time Series][1-1Q]                    | Unit 4 | Session 15 | 
-Intro to Time Series (continued)                | Unit 4 | Session 16 | 
-[Clustering][1-1U]                              | Unit 4 | Session 17 | 
-[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 18 | 
-[Working With Data: APIs][1-1O]                 | Unit 4 | Session 19 | 
+[Intro to Time Series][1-1O]                    | Unit 4 | Session 15 | 
+[Clustering][1-1P]                              | Unit 4 | Session 16 | 
+[Intro to Natural Language Processing][1-1Q]    | Unit 4 | Session 17 | 
+[Working With Data: APIs][1-1R]                 | Unit 4 | Session 18 | 
+Flex Topics                                     | Unit 4 | Session 19 | 
 Final Project Presentations                     | Unit 4 | Session 20 | 
 
 
@@ -105,22 +105,20 @@ Class recordings are available [here](./class_recordings.md)
 
 [1-1E]: ../../../eda-with-pandas
 [1-1F]: ../../../data-visualization-in-python 
-[1-1G]: ../../../experiments-hypothesis-tests
-[1-1H]: ../../../statistics-in-python
+[1-1G]: ../../../statistics-in-python
+[1-1H]: ../../../experiments-hypothesis-tests
 [1-1I]: ../../../linear-regression
 
+[1-1J]: ../../../logistic-regression
 [1-1K]: ../../../train-test-split-and-bias-variance
 [1-1L]: ../../../knn-classification
-[1-1M]: ../../../logistic-regression
+[1-1M]: ../../../decision-trees
 
-[1-1O]: ../../../getting-data-APIs
-[1-1P]: ../../../natural-language-processing
-[1-1Q]: ../../../flex_time-series
-[1-1S]: ../../../decision-trees
-[1-1T]: ../../../unit-4_project
 
-[1-1U]: ../../../flex_clustering
-[1-1V]: ../../../flex_topics
+[1-1O]: ../../../flex_time-series
+[1-1P]: ../../../flex_clustering
+[1-1Q]: ../../../natural-language-processing
+[1-1R]: ../../../getting-data-APIs
 
 ---
 
