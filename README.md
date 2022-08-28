@@ -46,8 +46,6 @@ The curriculum materials for this course are written in Python 3.6.
 
 **Instructor**: [Dami Lasisi](https://www.linkedin.com/in/dami-lasisi/)
 
-**Assistant**: [Sara Soueidan](https://www.linkedin.com/in/sara-soueidan/) and [Ed Salinas](https://www.linkedin.com/in/edrian-ed-salinas/)
-
 ---
 
 <a id='course'></a>
@@ -232,8 +230,6 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
 
 * Instructor's Office Hours - by appointment
-* Sara Soueidan Office Hours: Saturday, 10am to 2pm
-* Ed Salinas - Sun: 7-9 PM EST, Wed: 8-10 PM EST, Sign up on [Calendly](https://calendly.com/edrian-salinas/30min)
 
 Slack us or post in our #officehours channel to reserve a time-slot!
 
