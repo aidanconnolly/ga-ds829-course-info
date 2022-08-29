@@ -75,22 +75,22 @@ Lesson  | Unit Number | Session Number |
 [Python Foundations][1-1C]                      | Unit 1 | Session 3 |  
 [Project Review][1-1D]                          | Unit 1 | Session 4 | 
 --- | ---  | ---  |
-[Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 | 
-[Data Visualization in Python][1-1F]            | Unit 2 | Session 6 | 
-[Statistics in Python][1-1G]                    | Unit 2 | Session 7 | 
-[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 | 
-[Linear Regression][1-1I]                       | Unit 2 | Session 9 | 
+Exploratory Data Analysis in Pandas     		      | Unit 2 | Session 5 | 
+Data Visualization in Python            		      | Unit 2 | Session 6 | 
+Statistics in Python                    	      	| Unit 2 | Session 7 | 
+Experiments & Hypothesis Testing        		      | Unit 2 | Session 8 | 
+Linear Regression                       		      | Unit 2 | Session 9 | 
 --- | ---  | ---  |
-[Logistic Regression][1-1J]                     | Unit 3 | Session 10 | 
-[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11 | 
-[KNN / Classification][1-1L]                    | Unit 3 | Session 12 | 
-[Decision Trees][1-1M]                          | Unit 3 | Session 13 | 
+Logistic Regression                     		      | Unit 3 | Session 10 | 
+Train-Test Split & Bias-Variance        		      | Unit 3 | Session 11 | 
+KNN / Classification                    		      | Unit 3 | Session 12 | 
+Decision Trees                          	      	| Unit 3 | Session 13 | 
 Flex Topics                                     | Unit 3 | Session 14 | 
 --- | ---  | ---  |
-[Intro to Time Series][1-1O]                    | Unit 4 | Session 15 | 
-[Clustering][1-1P]                              | Unit 4 | Session 16 | 
-[Intro to Natural Language Processing][1-1Q]    | Unit 4 | Session 17 | 
-[Working With Data: APIs][1-1R]                 | Unit 4 | Session 18 | 
+Intro to Time Series                    		      | Unit 4 | Session 15 | 
+Clustering                              		      | Unit 4 | Session 16 | 
+Intro to Natural Language Processing    		      | Unit 4 | Session 17 | 
+Working With Data: APIs                 		      | Unit 4 | Session 18 |  
 Flex Topics                                     | Unit 4 | Session 19 | 
 Final Project Presentations                     | Unit 4 | Session 20 | 
 
@@ -151,9 +151,9 @@ You will get structured guidance and designated time to work throughout the cour
 ### Project Breakdown
 
 1. [Project 1: Python Technical Code Challenges][2-1A]
-2. [Project 2: Exploratory Data Analysis][2-1B]
-3. [Project 3: Modeling Practice][2-1C]
-4. [Project 4: Final Project][2-1D]
+2. Project 2: Exploratory Data Analysis
+3. Project 3: Modeling Practice
+4. Project 4: Final Project
     - Part 1: Proposal + Dataset
     - Part 2: Initial EDA Brief
     - Part 3: Technical Report
