@@ -189,7 +189,7 @@ You will get structured guidance and designated time to work throughout the cour
 
 ### Software
 
-1. Download and Install [Anaconda with Python 3.6](https://www.continuum.io/downloads).
+1. Download and Install [Anaconda with Python 3.9](https://www.continuum.io/downloads).
 
 > Note: Anaconda provides support for two different versions of Python. Make sure to install the "Python 3.6" version.
 
