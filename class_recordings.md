@@ -1,51 +1,50 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+# !
 
 
-## Class Recordings
+## Session Recordings
 
 All - below are the links to the class recordings for our class. Expect the recordings to be available within 24 hours after the lesson.
-For security reasons the all class recordings are protected by the **password** - `Hello_531`
+For security reasons the all class recordings are protected by the **password** - `Hello_829`
 
 
-### Recorded Classes
+### Recorded Sessiones 
 
-Class 1: [Welcome to Data Science](https://generalassembly.zoom.us/rec/share/1AjMOh9PsW8S0mg5rccQN98tVVgwt2XGs2ghMy4-gRVxQQAu6mAY2whV0tv4QNiE.oZcnLDesmLbn1LVU
-)
+Session 1: Welcome to Data Science
 
-Class 2: [Your Development Environment](https://generalassembly.zoom.us/rec/share/D_hcI3lma57FlEsHu7sk7jFJo5S9XV4CYRIfym1UOeZYLpRv7qc64j5Vij5P_2gR.hJHXJprarNvSpgj1)
+Session 2: Your Development Environment
 
-Class 3: [Python Foundations](https://generalassembly.zoom.us/rec/share/LCBPpIRbT48ez_52Q6GB-Wes_JSwv4s-EpQqfYO1oDuhnoG-8wR4V63RDsub-br0.3_zvaDC4JOKsVVfZ)
+Session 3: Python Foundations
 
-Class 4: [Project 1 Review](https://generalassembly.zoom.us/rec/share/wCdnueTDD0kiFxqj7idCf6EdrOSQ6otAdXlasQXUb3GHffNFopbun4FHgO400ixt.O2GfdGfNg0rVfxIH)
+Session 4: Project 1 Review
 
-Class 5: [Exploratory Data Analysis in Pandas](https://generalassembly.zoom.us/rec/share/Mc8MxMTWgtCUrwGmOwVfYcRYs5TSv9gSNfYb2qACkcy2q3h7qts9qyzjBGqlsxcW.4KJFNX21PAUAwSW3)
+Session 5: Exploratory Data Analysis in Pandas
 
-Class 6: [Data Visualization in Python](https://generalassembly.zoom.us/rec/share/PlzAw8ElUWOMazBEMd-iPSluL8pfAPnxPBYk4vXSEm2FLZ1SyMRaRrdK4uUZ3fuV.AuvY3pPWzBCSasRs)
+Session 6: Data Visualization in Python
 
-Class 7: [Statistics in Python](https://generalassembly.zoom.us/rec/share/9JbdwWsaYEsqf28y7O0vVlTHDi7XtRt_hcE5loErDLO95Y4ju-5kQGrCVJ8vj20W.byAEVqdGNfsKHq-m)
+Session 7: Statistics in Python
 
-Class 8: [Statistics in Python/Experiments & Hypothesis Testing](https://generalassembly.zoom.us/rec/share/UzfhKp29xjqK683Mh8cvP9u3YD6P7zOCiWZpjpj1wn8n5qQ1ohzRrPKizJkLnM6q.D2SB1cBbM4LN-GzI)
+Session 8: Experiments & Hypothesis Testing
 
-Class 9: [Experiments & Hypothesis Testing/Linear Regression](https://generalassembly.zoom.us/rec/share/Fo9ysOiYceOPtbitnbqpgcK2d5sSQcJ4GczGmwjtthTU7Jkwg6vgnRSeJyYb4R8y.WA04B5h6EF4LCOn3)
+Session 9: Linear Regression
 
-Class 10: [Linear Regression](https://generalassembly.zoom.us/rec/share/yCPWCYbiOUhE6LrpOVn-gmEZkHOpIpUST9CIk6fFhVU5E2VTWbpRCooL5zSXzY86._5VJ3miC-n_WzJ1t)
+Session 10: Logistic Regression
 
-Class 11: [Logistic Regression](https://generalassembly.zoom.us/rec/share/wpKqfBMHLP_Br7G10zNktGsIE0aKM5_s90XMehoH_fArmb6-dVc-8PqMIpO7u9w9.cM2rQtnkLjDVyYIB)
+Session 11: Train-Test Split & Bias-Variance
 
-Class 12: [Train-Test Split & Bias-Variance](https://generalassembly.zoom.us/rec/share/i3yUaq4B92a7BRZtbCXzST-PslM43TE-AMeKVN5Sdg2K10lCJ2mEqYVS-Clcpxam.0y3g91hoGcobCbfE)
+Session 12: KNN
 
-Class 13: [KNN](https://generalassembly.zoom.us/rec/share/qUptuRieRmJEWzqYj8SZbe1e7LfiRB1ManZQbYiWJf2iCvU9Wmd5twP1K_-ZSGYV.j259tfkBcz1LQC9W)
+Session 13: Decision Trees
 
-Class 14: [Decision Trees](https://generalassembly.zoom.us/rec/share/KmYEepMpKHwgyAA8W-iW0sIuNkGafA_enQEOEieDyXPeDCSSAjTfqRj3JodOxgSx.H2yckWgeeddH3BNO)
+Session 14: Flex Topics
 
-Class 15: [Random Forest/Intro to Time Series](https://generalassembly.zoom.us/rec/share/CZKQLaNKh8g1qOs3rnPMeomm9oupiUJnyJJi8DKdIJiwxC88eJ3uvxVixULQJLQ4.CqLJVlOpbpMUa0CB)
+Session 15: Intro to Time Series
 
-Class 16: [Into to Time Series](https://generalassembly.zoom.us/rec/share/2T_BtaYqji5bdy5GobYpRZY63RJ4AVWyuj3scAVf8QtZJRd2tVKE0KNGBo3iIWfa.0Du5WfMbclsriUGp)
+Session 16: Clustering
 
-Class 17: [Clustering](https://generalassembly.zoom.us/rec/share/Ry7wNMpSjPxGJUVKcoCgFKRqPWSf4hldVHMQ3Yfad20MZV3t9EvwYyZjqtVrHX6h.K1UCw2lujhQBrKU9)
+Session 17: Intro to Natural Language Processing
 
-Class 18: [Intro to Natural Language Processing](https://generalassembly.zoom.us/rec/share/aBbDvap-fTuCPXWEPCRCal2LdOr_TduqEAf-z-SnRYlN_zHUsOhlsNG7TNej1T7R.voRwLodqgKX_D2UJ)
+Session 18: Working With Data: APIs
 
-Class 19: Working With Data: APIs
+Session 19: Flex Topics
 
-Class 20: Final Project Presentations
+Session 20: Final Project Presentations
