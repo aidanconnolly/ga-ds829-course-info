@@ -216,7 +216,11 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 <a id='expectations'></a>
 ## Expectations
 
-[Add specific local market attendance, student policy, and parking expectations here]
+- Be on time for class (students may not miss more than 3 days of class)
+- Be present - videos cameras should be on during class
+- Submit all assignments
+- Complete exit tickets and course surveys
+- Ask questions
 
 ---
 
