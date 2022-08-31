@@ -9,8 +9,7 @@ For security reasons the all class recordings are protected by the **password** 
 
 ### Recorded Sessiones 
 
-Session 1: Welcome to Data Science
-
+Session 1: [Welcome to Data Science](https://generalassembly.zoom.us/rec/share/tBYV3c9IcaOzhfWOJ8E_sfbqdWbCXH0u9vmLLmCTHajKdC2JbohP9D09sAodigck.wlyAq2oilEAykW0q)
 Session 2: Your Development Environment
 
 Session 3: Python Foundations
