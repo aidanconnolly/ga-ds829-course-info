@@ -135,7 +135,7 @@ For those of you who want to go above and beyond, we’ve also included stretch 
 
 ### Final Project
 
-You'll also complete a [final project], asking you to apply your skills to a real-world or business problem of your choice.
+You'll also complete a [final project][2-1A], asking you to apply your skills to a real-world or business problem of your choice.
 
 The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your life, industry, or organization. You’ll create a hypothesis, analyze internal data, and generate a working model, prototype, solution, or recommendation.
 
@@ -151,7 +151,7 @@ You will get structured guidance and designated time to work throughout the cour
 ### Project Breakdown
 
 1. [Project 1: Python Technical Code Challenges][2-1A]
-2. Project 2: Exploratory Data Analysis
+2. [Project 2: Exploratory Data Analysis][2-1A]
 3. Project 3: Modeling Practice
 4. Project 4: Final Project
     - Part 1: Proposal + Dataset
