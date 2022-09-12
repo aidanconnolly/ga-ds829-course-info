@@ -13,7 +13,7 @@ Session 1: [Welcome to Data Science](https://generalassembly.zoom.us/rec/share/t
 
 Session 2: [Your Development Environment](https://generalassembly.zoom.us/rec/share/RxqAuy4hIh1nrajh3JW-YwfoJu7muMobT0AjssonjAxmOZ_xo5UB3HC8DLClgQry.9xyeGFi4FZ35YsjB)
 
-Session 3: Python Foundations
+Session 3: [Python Foundations](https://generalassembly.zoom.us/rec/share/Gy5JH6XBeIWHKzn6xaVRuNrLpArmqdXoerLg2CRi9eonrItUb9RLAW6IQYCMltqZ.ggSYQzyH1Jv8kRkQ)
 
 Session 4: Project 1 Review
 
