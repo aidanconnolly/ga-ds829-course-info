@@ -73,13 +73,13 @@ Lesson  | Unit Number | Session Number |
 [Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 |
 [Your Development Environment][1-1B]            | Unit 1 | Session 2 | 
 [Python Foundations][1-1C]                      | Unit 1 | Session 3 |  
-[Project Review][1-1D]                          | Unit 1 | Session 4 | 
+[Project 1 Review][1-1D]                        | Unit 1 | Session 4 | 
 --- | ---  | ---  |
-Exploratory Data Analysis in Pandas     		      | Unit 2 | Session 5 | 
-Data Visualization in Python            		      | Unit 2 | Session 6 | 
-Statistics in Python                    	      	| Unit 2 | Session 7 | 
-Experiments & Hypothesis Testing        		      | Unit 2 | Session 8 | 
-Linear Regression                       		      | Unit 2 | Session 9 | 
+[Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 | 
+[Data Visualization in Python][1-1F]      		    | Unit 2 | Session 6 | 
+[Statistics in Python][1-1G]              	    	| Unit 2 | Session 7 | 
+[Experiments & Hypothesis Testing][1-1H]  		    | Unit 2 | Session 8 | 
+[Linear Regression][1-1I]                 		    | Unit 2 | Session 9 | 
 --- | ---  | ---  |
 Logistic Regression                     		      | Unit 3 | Session 10 | 
 Train-Test Split & Bias-Variance        		      | Unit 3 | Session 11 | 
@@ -151,9 +151,9 @@ You will get structured guidance and designated time to work throughout the cour
 ### Project Breakdown
 
 1. [Project 1: Python Technical Code Challenges][2-1A]
-2. [Project 2: Exploratory Data Analysis][2-1D]
+2. Project 2: Exploratory Data Analysis
 3. Project 3: Modeling Practice
-4. Project 4: Final Project
+4. [Project 4: Final Project][[2-1D]
     - Part 1: Proposal + Dataset
     - Part 2: Initial EDA Brief
     - Part 3: Technical Report
