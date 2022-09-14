@@ -15,7 +15,7 @@ Session 2: [Your Development Environment](https://generalassembly.zoom.us/rec/sh
 
 Session 3: [Python Foundations](https://generalassembly.zoom.us/rec/share/Gy5JH6XBeIWHKzn6xaVRuNrLpArmqdXoerLg2CRi9eonrItUb9RLAW6IQYCMltqZ.ggSYQzyH1Jv8kRkQ)
 
-Session 4: Project 1 Review
+Session 4: [Project 1 Review](https://generalassembly.zoom.us/rec/share/O05Y5xHLC1_ctYbq_0kVq3h2pT6E56iMUTG8KB5w0OOjKWzHJpbJgqOGBH2fmSt8.OW39s6CNHTVgj9G6)
 
 Session 5: Exploratory Data Analysis in Pandas
 
