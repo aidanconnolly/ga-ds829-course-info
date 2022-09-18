@@ -17,7 +17,7 @@ Session 3: [Python Foundations](https://generalassembly.zoom.us/rec/share/Gy5JH6
 
 Session 4: [Project 1 Review](https://generalassembly.zoom.us/rec/share/O05Y5xHLC1_ctYbq_0kVq3h2pT6E56iMUTG8KB5w0OOjKWzHJpbJgqOGBH2fmSt8.OW39s6CNHTVgj9G6)
 
-[Session 5: Exploratory Data Analysis in Pandas](https://generalassembly.zoom.us/rec/share/F-zg2nbHl0mdi1kPoMS6Joex97QLiwZbUf5-QaFWctXcepwOsN5Q8cNqe3-FL1jM.OlArkUlZPHaBrMCq)
+Session 5: [Exploratory Data Analysis in Pandas](https://generalassembly.zoom.us/rec/share/F-zg2nbHl0mdi1kPoMS6Joex97QLiwZbUf5-QaFWctXcepwOsN5Q8cNqe3-FL1jM.OlArkUlZPHaBrMCq)
 
 Session 6: Data Visualization in Python
 
