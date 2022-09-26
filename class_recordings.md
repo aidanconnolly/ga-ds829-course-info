@@ -19,7 +19,7 @@ Session 4: [Project 1 Review](https://generalassembly.zoom.us/rec/share/O05Y5xHL
 
 Session 5: [Exploratory Data Analysis in Pandas](https://generalassembly.zoom.us/rec/share/F-zg2nbHl0mdi1kPoMS6Joex97QLiwZbUf5-QaFWctXcepwOsN5Q8cNqe3-FL1jM.OlArkUlZPHaBrMCq)
 
-Session 6: Data Visualization in Python
+Session 6: [Data Visualization in Python](https://generalassembly.zoom.us/rec/share/I6eSP11KbgfNUbksaGZwqP5jY2s9_tHQrk8F2Ilr0h6UkFgDtspqE0SN_RSbXWM.bNNgGjGIyno_78XX)
 
 Session 7: Statistics in Python
 
