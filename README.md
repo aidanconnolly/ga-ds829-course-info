@@ -152,7 +152,7 @@ You will get structured guidance and designated time to work throughout the cour
 
 1. [Project 1: Python Technical Code Challenges][2-1A]
 2. [Project 2: Exploratory Data Analysis][2-1B]
-3. Project 3: Modeling Practice
+3. [Project 3: Modeling Practice][2-1C]
 4. [Project 4: Final Project][2-1D]
     - Part 1: Proposal + Dataset
     - Part 2: Initial EDA Brief
