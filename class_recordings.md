@@ -21,7 +21,7 @@ Session 5: [Exploratory Data Analysis in Pandas](https://generalassembly.zoom.us
 
 Session 6: [Data Visualization in Python](https://generalassembly.zoom.us/rec/share/I6eSP11KbgfNUbksaGZwqP5jY2s9_tHQrk8F2Ilr0h6UkFgDtspqE0SN_RSbXWM.bNNgGjGIyno_78XX)
 
-Session 7: Statistics in Python
+Session 7: [Statistics in Python](https://generalassembly.zoom.us/rec/share/f-Gg_q9_Uu7fE1sXIdFYrwFwQPZpkPPFp5zxDURcwOtCrpvA9u3m8bTTOquMJKga.9rmoG7mZ3wYop6Wc)
 
 Session 8: Experiments & Hypothesis Testing
 
