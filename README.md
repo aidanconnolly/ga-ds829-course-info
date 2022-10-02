@@ -81,10 +81,10 @@ Lesson  | Unit Number | Session Number |
 [Experiments & Hypothesis Testing][1-1H]  		    | Unit 2 | Session 8 | 
 [Linear Regression][1-1I]                 		    | Unit 2 | Session 9 | 
 --- | ---  | ---  |
-Logistic Regression                     		      | Unit 3 | Session 10 | 
-Train-Test Split & Bias-Variance        		      | Unit 3 | Session 11 | 
-KNN / Classification                    		      | Unit 3 | Session 12 | 
-Decision Trees                          	      	| Unit 3 | Session 13 | 
+[Logistic Regression][1-1J]                     | Unit 3 | Session 10 | 
+[Train-Test Split & Bias-Variance][1-1K] 	      | Unit 3 | Session 11 | 
+[KNN / Classification][1-1L]            		      | Unit 3 | Session 12 | 
+[Decision Trees][1-1M]                  	      	| Unit 3 | Session 13 | 
 Flex Topics                                     | Unit 3 | Session 14 | 
 --- | ---  | ---  |
 Intro to Time Series                    		      | Unit 4 | Session 15 | 
