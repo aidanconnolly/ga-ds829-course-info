@@ -23,7 +23,7 @@ Session 6: [Data Visualization in Python](https://generalassembly.zoom.us/rec/sh
 
 Session 7: [Statistics in Python](https://generalassembly.zoom.us/rec/share/f-Gg_q9_Uu7fE1sXIdFYrwFwQPZpkPPFp5zxDURcwOtCrpvA9u3m8bTTOquMJKga.9rmoG7mZ3wYop6Wc)
 
-Session 8: Experiments & Hypothesis Testing
+Session 8: [Statistics in Python/Experiments & Hypothesis Testing](https://generalassembly.zoom.us/rec/share/_qwPGoK1LBQudx1SdXkhmHX2EMjTm8iIwPYHFHiFR7WIWkGBFL-gadA_Bx8akNTa.ElcKwNgvoC2w1n57)
 
 Session 9: Linear Regression
 
