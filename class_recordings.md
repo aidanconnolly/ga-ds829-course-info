@@ -25,7 +25,7 @@ Session 7: [Statistics in Python](https://generalassembly.zoom.us/rec/share/f-Gg
 
 Session 8: [Statistics in Python/Experiments & Hypothesis Testing](https://generalassembly.zoom.us/rec/share/_qwPGoK1LBQudx1SdXkhmHX2EMjTm8iIwPYHFHiFR7WIWkGBFL-gadA_Bx8akNTa.ElcKwNgvoC2w1n57)
 
-Session 9: Linear Regression
+Session 9: [Experiments & Hypothesis Testing/Linear Regression](https://generalassembly.zoom.us/rec/share/t5jNhdDKlh5R421I2RvVnNJhX_gyJMntyhRgie2U5NgBdjvfXv1Dc-zLQaVxN9Vw.DeDcR8rHeHZElCa-)
 
 Session 10: Logistic Regression
 
