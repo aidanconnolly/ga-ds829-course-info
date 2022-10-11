@@ -27,9 +27,9 @@ Session 8: [Statistics in Python/Experiments & Hypothesis Testing](https://gener
 
 Session 9: [Experiments & Hypothesis Testing/Linear Regression](https://generalassembly.zoom.us/rec/share/t5jNhdDKlh5R421I2RvVnNJhX_gyJMntyhRgie2U5NgBdjvfXv1Dc-zLQaVxN9Vw.DeDcR8rHeHZElCa-)
 
-Session 10: Logistic Regression
+Session 10: [Linear Regression/Logistic Regression](https://generalassembly.zoom.us/rec/share/mfK-iNW1lP1Cb8LxCXCtwmI442xXu5SVT5l7X31uHXku9oS-Y8n_lLPQ3mVaI76U.n4wDOnkgUoku7DBv)
 
-Session 11: Train-Test Split & Bias-Variance
+Session 11: [Logistic Regression/Train-Test Split & Bias-Variance](https://generalassembly.zoom.us/rec/share/iMYP4us2TNxB7yPv_6qFailQuP-6MJxr20K_U73ABout1v95I7f_l_FCDrcQKnOG.CKeiFIbWjArMf3KQ)
 
 Session 12: KNN
 
