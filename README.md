@@ -170,7 +170,7 @@ You will get structured guidance and designated time to work throughout the cour
 
 - Project 1: Monday, September 19, 2022
 - Project 2: Monday, October 10, 2022
-- Project 3: Monday, October 17, 2022
+- Project 3: Monday, October 24, 2022
 - Project 4 (Final):
     - Proposal + Dataset: Wednesday, September 21, 2022
     - Initial EDA Brief: Wednesday, October 12, 2022
