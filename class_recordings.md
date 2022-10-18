@@ -31,9 +31,9 @@ Session 10: [Linear Regression/Logistic Regression](https://generalassembly.zoom
 
 Session 11: [Logistic Regression/Train-Test Split & Bias-Variance](https://generalassembly.zoom.us/rec/share/iMYP4us2TNxB7yPv_6qFailQuP-6MJxr20K_U73ABout1v95I7f_l_FCDrcQKnOG.CKeiFIbWjArMf3KQ)
 
-Session 12: KNN
+Session 12: [KNN](https://generalassembly.zoom.us/rec/share/c9Ct37sP7nifK_hkEVAgvHCIAvhmUNMYBYR-N1ai5eyV0pxBH8N05PfV_bUBVgKH.ZB8Q96Xuy87GyKI4)
 
-Session 13: Decision Trees
+Session 13: [Decision Trees](https://generalassembly.zoom.us/rec/share/ZGusy-v0nksFGYnr-izDaRomvB1zpWzxb3yeWudoE5yN0zEq41VV0erqe0mT-u8N.gAvIp8mV7HjQa9Xb)
 
 Session 14: Flex Topics
 
