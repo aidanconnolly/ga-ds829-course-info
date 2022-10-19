@@ -85,12 +85,12 @@ Lesson  | Unit Number | Session Number |
 [Train-Test Split & Bias-Variance][1-1K] 	      | Unit 3 | Session 11 | 
 [KNN / Classification][1-1L]            		      | Unit 3 | Session 12 | 
 [Decision Trees][1-1M]                  	      	| Unit 3 | Session 13 | 
-[Intro to Time Series][1-1O]                   	| Unit 4 | Session 15 | 
+[Intro to Time Series][1-1O]                   	| Unit 4 | Session 14 | 
 --- | ---  | ---  |
-[Clustering][1-1P]                              | Unit 4 | Session 16 | 
-[Intro to Natural Language Processing][1-1Q]    | Unit 4 | Session 17 | 
-Flex Topics                                     | Unit 3 | Session 14 | 
-[Working With Data: APIs][1-1R]                 | Unit 4 | Session 18 |  
+Clustering                              | Unit 4 | Session 15 | 
+Intro to Natural Language Processing    | Unit 4 | Session 16 | 
+Working With Data: APIs                 | Unit 4 | Session 17 |  
+Flex Topics                                     | Unit 3 | Session 18 | 
 Flex Topics                                     | Unit 4 | Session 19 | 
 Final Project Presentations.                    | Unit 4 | Session 20 | 
 
