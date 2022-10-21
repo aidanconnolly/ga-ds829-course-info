@@ -35,7 +35,7 @@ Session 12: [KNN](https://generalassembly.zoom.us/rec/share/c9Ct37sP7nifK_hkEVAg
 
 Session 13: [Decision Trees](https://generalassembly.zoom.us/rec/share/ZGusy-v0nksFGYnr-izDaRomvB1zpWzxb3yeWudoE5yN0zEq41VV0erqe0mT-u8N.gAvIp8mV7HjQa9Xb)
 
-Session 14: Flex Topics
+Session 14: [Flex Topics](https://generalassembly.zoom.us/rec/share/sr7w0EXl9qA6lnh09oMm_AFXTIk4tc0TQQ0GAfp7q5905nomR55CRIbKYIMMYPMw.-TwjXl8DlfGeT8M6)
 
 Session 15: Intro to Time Series
 
