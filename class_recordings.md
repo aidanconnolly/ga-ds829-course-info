@@ -37,13 +37,14 @@ Session 13: [Decision Trees](https://generalassembly.zoom.us/rec/share/ZGusy-v0n
 
 Session 14: [Intro to Time Series](https://generalassembly.zoom.us/rec/share/sr7w0EXl9qA6lnh09oMm_AFXTIk4tc0TQQ0GAfp7q5905nomR55CRIbKYIMMYPMw.-TwjXl8DlfGeT8M6)
 
-Session 15: Flex Topics
 
-Session 16: Clustering 
+Session 15: Clustering 
 
-Session 17: Intro to Natural Language Processing
+Session 16: Intro to Natural Language Processing
 
-Session 18: Working With Data: APIs
+Session 17: Working With Data: APIs
+
+Session 18: Flex Topics
 
 Session 19: Flex Topics
 
