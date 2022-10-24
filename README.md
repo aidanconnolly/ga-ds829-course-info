@@ -87,12 +87,12 @@ Lesson  | Unit Number | Session Number |
 [Decision Trees][1-1M]                  	      	| Unit 3 | Session 13 | 
 [Intro to Time Series][1-1O]                   	| Unit 4 | Session 14 | 
 --- | ---  | ---  |
-Clustering                              | Unit 4 | Session 15 | 
-Intro to Natural Language Processing    | Unit 4 | Session 16 | 
-Working With Data: APIs                 | Unit 4 | Session 17 |  
+[Clustering][1-1P]                              | Unit 4 | Session 15 | 
+[Intro to Natural Language Processing][1-1Q]    | Unit 4 | Session 16 | 
+[Working With Data: APIs][1-1R]                 | Unit 4 | Session 17 |  
 Flex Topics                                     | Unit 3 | Session 18 | 
 Flex Topics                                     | Unit 4 | Session 19 | 
-Final Project Presentations.                    | Unit 4 | Session 20 | 
+Final Project Presentations                    | Unit 4 | Session 20 | 
 
 
 Class recordings are available [here](./class_recordings.md)
@@ -174,8 +174,8 @@ You will get structured guidance and designated time to work throughout the cour
 - Project 4 (Final):
     - Proposal + Dataset: Wednesday, September 21, 2022
     - Initial EDA Brief: Wednesday, October 12, 2022
-    - Technical Report: Wednesday, November 7, 2022
-    - Presentation: Wednesday, November 7, 2022
+    - Technical Report: Monday, November 7, 2022
+    - Presentation: Monday, November 7, 2022
 
 ---
 
