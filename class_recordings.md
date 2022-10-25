@@ -37,8 +37,7 @@ Session 13: [Decision Trees](https://generalassembly.zoom.us/rec/share/ZGusy-v0n
 
 Session 14: [Intro to Time Series](https://generalassembly.zoom.us/rec/share/sr7w0EXl9qA6lnh09oMm_AFXTIk4tc0TQQ0GAfp7q5905nomR55CRIbKYIMMYPMw.-TwjXl8DlfGeT8M6)
 
-
-Session 15: Clustering 
+Session 15: [Intro to Time Series/Clustering](https://generalassembly.zoom.us/rec/share/G9LxM7pXelJLkf1ZX7XItLsQs3HdKNhRJX-RAzj9U8tITfGIIMw-6Kvw0HaVX-Rs.QQA87V1OwO37vp0j)
 
 Session 16: Intro to Natural Language Processing
 
