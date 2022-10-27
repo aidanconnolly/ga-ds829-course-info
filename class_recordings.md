@@ -39,7 +39,7 @@ Session 14: [Intro to Time Series](https://generalassembly.zoom.us/rec/share/sr7
 
 Session 15: [Intro to Time Series/Clustering](https://generalassembly.zoom.us/rec/share/G9LxM7pXelJLkf1ZX7XItLsQs3HdKNhRJX-RAzj9U8tITfGIIMw-6Kvw0HaVX-Rs.QQA87V1OwO37vp0j)
 
-Session 16: Intro to Natural Language Processing
+Session 16: [Intro to Natural Language Processing](https://generalassembly.zoom.us/rec/share/CErII8OiLjqhUU4nHZXBEFw1FZdjWo4dfRtF-1bnC0PRq555h6ExmCsHYgREGbOv.H09oQ6tjLF7MadHl)
 
 Session 17: Working With Data: APIs
 
