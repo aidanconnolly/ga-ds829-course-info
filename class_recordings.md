@@ -7,7 +7,7 @@ All - below are the links to the class recordings for our class. Expect the reco
 For security reasons the all class recordings are protected by the **password** - `Hello_829`
 
 
-### Recorded Sessiones 
+### Recorded Sessions 
 
 Session 1: [Welcome to Data Science](https://generalassembly.zoom.us/rec/share/tBYV3c9IcaOzhfWOJ8E_sfbqdWbCXH0u9vmLLmCTHajKdC2JbohP9D09sAodigck.wlyAq2oilEAykW0q)
 
