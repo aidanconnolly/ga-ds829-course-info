@@ -90,7 +90,7 @@ Lesson  | Unit Number | Session Number |
 [Clustering][1-1P]                              | Unit 4 | Session 15 | 
 [Intro to Natural Language Processing][1-1Q]    | Unit 4 | Session 16 | 
 [Working With Data: APIs][1-1R]                 | Unit 4 | Session 17 |  
-Flex Topics                                     | Unit 3 | Session 18 | 
+[Flex Topics][1-1R]                             | Unit 3 | Session 18 | 
 Flex Topics                                     | Unit 4 | Session 19 | 
 Final Project Presentations                    | Unit 4 | Session 20 | 
 
@@ -119,6 +119,7 @@ Class recordings are available [here](./class_recordings.md)
 [1-1P]: ../../../flex_clustering
 [1-1Q]: ../../../natural-language-processing
 [1-1R]: ../../../getting-data-APIs
+[1-1S]: ../../../flex-lesson-1
 
 ---
 
