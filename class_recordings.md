@@ -41,9 +41,9 @@ Session 15: [Intro to Time Series/Clustering](https://generalassembly.zoom.us/re
 
 Session 16: [Clustering/Intro to Natural Language Processing](https://generalassembly.zoom.us/rec/share/CErII8OiLjqhUU4nHZXBEFw1FZdjWo4dfRtF-1bnC0PRq555h6ExmCsHYgREGbOv.H09oQ6tjLF7MadHl)
 
-Session 17: Working With Data: APIs
+Session 17: [Intro to Natural Language Processing/Working With Data: APIs](https://generalassembly.zoom.us/rec/share/AU4sXfLxw-OB62E3RNSfDOY54sqxkROPiNzr_B01pCgJxwIgeBSGUHlIOveIZZ9p.PBJXJpXU2e9ymPvv)
 
-Session 18: Flex Topics
+Session 18: [Working With Data: APIs/Flex Topics 1](https://generalassembly.zoom.us/rec/share/Te5WksN1HrSUYkHgwiGbOsZlKv5V7uxTBUxSzlxIIqDVAaRHgH1pGQkyUtTCBgj6.4ITlZTXcp3VatrhK)
 
 Session 19: Flex Topics
 
