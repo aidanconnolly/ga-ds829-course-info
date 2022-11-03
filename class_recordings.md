@@ -43,8 +43,8 @@ Session 16: [Clustering/Intro to Natural Language Processing](https://generalass
 
 Session 17: [Intro to Natural Language Processing/Working With Data: APIs](https://generalassembly.zoom.us/rec/share/AU4sXfLxw-OB62E3RNSfDOY54sqxkROPiNzr_B01pCgJxwIgeBSGUHlIOveIZZ9p.PBJXJpXU2e9ymPvv)
 
-Session 18: [Working With Data: APIs/Flex Topics 1](https://generalassembly.zoom.us/rec/share/Te5WksN1HrSUYkHgwiGbOsZlKv5V7uxTBUxSzlxIIqDVAaRHgH1pGQkyUtTCBgj6.4ITlZTXcp3VatrhK)
+Session 18: [Working With Data: APIs/Flex Topics](https://generalassembly.zoom.us/rec/share/Te5WksN1HrSUYkHgwiGbOsZlKv5V7uxTBUxSzlxIIqDVAaRHgH1pGQkyUtTCBgj6.4ITlZTXcp3VatrhK)
 
-Session 19: Flex Topics
+Session 19: [Flex Topics](https://generalassembly.zoom.us/rec/share/RYff7-0h1dW5nlcywMDY7v5fHLmPP-H6j0xO44eV4tE3F8AyynPAHK7KIQme8Uh8.Zvd42TfNptD41fsY)
 
 Session 20: Final Project Presentations
