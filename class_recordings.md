@@ -47,4 +47,4 @@ Session 18: [Working With Data: APIs/Flex Topics](https://generalassembly.zoom.u
 
 Session 19: [Flex Topics](https://generalassembly.zoom.us/rec/share/RYff7-0h1dW5nlcywMDY7v5fHLmPP-H6j0xO44eV4tE3F8AyynPAHK7KIQme8Uh8.Zvd42TfNptD41fsY)
 
-Session 20: Final Project Presentations
+Session 20: [Final Project Presentations](https://generalassembly.zoom.us/rec/share/Gm7Fk4nRcawxi_pntxM2KWcM3FzZXFQDH6S-eY_JzX6kDfWuI3uQX5L60v7tDrIj.XVnKihvQO5R3SVq7)
